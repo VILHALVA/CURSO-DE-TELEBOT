@@ -9,7 +9,7 @@
 
 # [PASSO A PASSO NA CRIAÇÃO DE BOT](https://t.me/BOTCRIADO/4)
 
-## 1️⃣Entre no privado com [@botfather](https://t.me/botfather) e configure o avatar de seu bot:
+## 1️⃣Entre no privado com [@botfather](https://t.me/botfather) e configure o avatar do seu bot:
 * 🔹edit Name - Dê um nome.
 * 🔹edit About - Coloque a Bios.
 * 🔹edit Description - Coloque Descrição.
