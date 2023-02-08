@@ -22,7 +22,7 @@
 
 ## 4️⃣Instale a linguagem que você vai programar. [Clique aqui para instalar o python.](https://pypi.org/project/pyTelegramBotAPI/#files)
 
-## 5️⃣Você pode baixar personalizar esse repositório. [Ou usar alguns exemplos prontos do Telegram.](https://core.telegram.org/bots/samples)
+## 5️⃣Você pode baixar e personalizar esse repositório. [Ou usar alguns exemplos prontos do Telegram.](https://core.telegram.org/bots/samples)
 
 ## 6️⃣Ao copiar o código, as únicas coisas que você irá precisar colocar é:
 * 🔰Token do bot;
