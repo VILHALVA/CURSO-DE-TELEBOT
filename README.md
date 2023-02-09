@@ -23,7 +23,7 @@
 
 ## 4️⃣Instale algumas ferramentas:
 * [🔰VISUAL STUDIO CODE](https://code.visualstudio.com/)
-* [🔰O PYTHON](https://www.python.org/downloads/release/python-3110/)
+* [🔰PYTHON](https://www.python.org/downloads/release/python-3110/)
 * [🔰PYTELEGRAMBOT](https://pypi.org/project/pyTelegramBotAPI/#files)
 
 ## 5️⃣Você pode baixar e personalizar esse repositório. [Ou usar alguns exemplos prontos do Telegram.](https://core.telegram.org/bots/samples)
