@@ -11,6 +11,7 @@
 ![](https://i.imgur.com/waxVImv.png)
 
 ## 1️⃣Entre no privado com [@botfather](https://t.me/botfather) e configure o avatar do seu bot:
+* 🔹newbot - Novo Bot.
 * 🔹edit Name - Dê o Nome.
 * 🔹edit About - Coloque a Bios.
 * 🔹edit Description - Coloque a Descrição.
