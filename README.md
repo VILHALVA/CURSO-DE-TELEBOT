@@ -15,7 +15,7 @@
 * 🔹edit About - Coloque a Bios.
 * 🔹edit Description - Coloque a Descrição.
 * 🔹edit Botpic - Coloque a foto.
-* 🔰Salve o token do seu bot.
+* 🔰SALVE O TOKEN DO SEU BOT.
 
 ## 2️⃣Você precisa saber alguma linguagem de programação. Se não souber, [clique aqui para fazer um de nossos cursos.](https://t.me/CODIGOCN/1333)
 
