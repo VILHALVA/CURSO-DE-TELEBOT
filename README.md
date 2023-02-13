@@ -1,6 +1,8 @@
 # TELEGRAM-BOT
 👨‍⚖️APRENDA A CRIAR SEU PRÓPRIO BOT DO TELEGRAM.
 
+[![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA) <br>
+
 [![GitHub Repo stars](https://img.shields.io/badge/CURSO%20COMPRETO%20NO-CANAL-03A9F4?logo=telegram)](https://t.me/BOTCRIADO) 
 [![GitHub Repo stars](https://img.shields.io/badge/PEÇA%20AJUDA%20NO-GRUPO-03A9F4?logo=telegram)](https://t.me/CODIGOGP)
 <br>
