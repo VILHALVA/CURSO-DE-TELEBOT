@@ -9,3 +9,5 @@ Run
 Use node-ytSub_example as the service for init.d or enter in console:
 
     node dist/main.js
+    
+## Código feito pelo [Feverqwe](https://github.com/Feverqwe/ytWatchBot).
