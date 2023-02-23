@@ -57,5 +57,3 @@ def send_scheduled_message(context: CallbackContext) -> None:
 
 
 # Para criar um bot do Telegram em Python que permita agendar mensagens usando o seu perfil em grupos, podemos usar a biblioteca python-telegram-bot. 
-
-# 
