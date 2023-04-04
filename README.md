@@ -2,14 +2,13 @@
 👨‍⚖️APRENDA A CRIAR SEU PRÓPRIO BOT DO TELEGRAM.
 
 [![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA) <br>
-
-[![GitHub Repo stars](https://img.shields.io/badge/CURSO%20COMPRETO%20NO-CANAL-03A9F4?logo=telegram)](https://t.me/BOTCRIADO) 
+ 
 [![GitHub Repo stars](https://img.shields.io/badge/PEÇA%20AJUDA%20NO-GRUPO-03A9F4?logo=telegram)](https://t.me/CODIGOGP)
 <br>
 
 <img src="https://blog.vandersonguidi.com.br/wp-content/uploads/2019/04/S_863346-MLB29530915311_032019-O.jpg" align="center" width="280"> <br>
 
-# [PASSO A PASSO NA CRIAÇÃO DE BOT](https://t.me/BOTCRIADO/4)
+# PASSO A PASSO NA CRIAÇÃO DE BOT
 ![](https://i.imgur.com/waxVImv.png)
 
 ## 1️⃣Entre no privado com [@botfather](https://t.me/botfather) e configure o avatar do seu bot:
