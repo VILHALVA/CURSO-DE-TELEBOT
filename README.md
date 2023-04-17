@@ -1,9 +1,8 @@
 # TELEGRAM-BOT
 👨‍⚖️APRENDA A CRIAR SEU PRÓPRIO BOT DO TELEGRAM.
 
-[![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA) <br>
- 
-[![GitHub Repo stars](https://img.shields.io/badge/PEÇA%20AJUDA%20NO-GRUPO-03A9F4?logo=telegram)](https://t.me/CODIGOGP)
+[![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA) 
+[![GitHub Repo stars](https://img.shields.io/badge/CURSO-COMPRETO-03A9F4?logo=youtube)](https://youtube.com/playlist?list=PLJE6tO9EBOQHB-w1ZeATvuQVrOlg05-sq)
 <br>
 
 <img src="https://blog.vandersonguidi.com.br/wp-content/uploads/2019/04/S_863346-MLB29530915311_032019-O.jpg" align="center" width="280"> <br>
