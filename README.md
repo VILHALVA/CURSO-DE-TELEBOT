@@ -249,62 +249,67 @@ O token do nosso bot de exemplo é:
 * Telegram Cli Client
 * PHP TdLib *MTProto Lib
 
-## 7.3 Node.js
-Botgram
-Node.js Telegram Bot API
-Telegraf
-Telebot
-tgapi
-telegram-bot-api
-Slimbot
-7.4 Outras linguagens
-telegram-bot-ruby - Ruby
-telegram-bot-swift - Swift
-Jack Telegram Bot - MoonScript
-Margelet - Go
-go-telegram-bot-api
-Otouto - Lua
-Telegram Bot Bash - Bash
-Telegram Bot Java Library - Java
-haskell-telegram-api - Haskell
-telegram-bot-lua - Lua
-TarnaBot - C++
+## 7.3 Node.js:
+* Botgram
+* Node.js Telegram Bot API
+* Telegraf
+* Telebot
+* tgapi
+* telegram-bot-api
+* Slimbot
+ 
+## 7.4 Outras linguagens:
+* telegram-bot-ruby - Ruby
+* telegram-bot-swift - Swift
+* Jack Telegram Bot - MoonScript
+* Margelet - Go
+* go-telegram-bot-api
+* Otouto - Lua
+* Telegram Bot Bash - Bash
+* Telegram Bot Java Library - Java
+* haskell-telegram-api - Haskell
+* telegram-bot-lua - Lua
+* TarnaBot - C++
 
+## 8. Projetos desenvolvidos pela comunidade:
+## 8.1 Python:
+* Currencies Robot (GitHub) - Membro(s): Khaled - Um Telegram Bot desenvolvido para visualizar a cotação de moedas e altcoins de forma rápida e fácil.
+* ImageVisionBot (GitHub) - Membro(s): Pedro Guimarães - Um Telegram bot que usa visão computacional para descrever imagens.
+* Myinstantsbot (@Myinstantsbot) (GitHub) - Membro(s): Heylouiz - Um Telegram Bot que busca sons no Myintants e os manda como mensagens de voz.
+* Nathy BOT (GitHub) - Membro(s): Vycktor Stark - Bot com AIML + Telepot.
+* Robô Db vs 1.0 (GitHub) - Membro(s): Vycktor Stark Adilson Cavalcante - Um Telegram Bot simples que executa até no Qpython.
+* Robô Db vs 3.0 (GitHub) - Membro(s): Vycktor Stark - Bot baseado nas antigas versões do Robô Db.
+* SiDBot (@sidbot) (GitHub) - Membro(s): TiagoDanin - Um bot baseado nas antigas versões do SiD, agora feito do zero e escrito em Python.
+* Timmoty (GitHub) - Membro(s): Francis Taylor - Bot para Telegram feito com Threads nativa da linguagem Python.
+* RastreioBot (@RastreioBot) (GitHub) - Membro: GabrielRF - Bot para rastreamento de pacotes cadastrados no sistema dos Correios.
+* Send2KindleBot (@Send2KindleBot) (GitHub) - Membro: GabrielRF - Bot para envio de documentos para Kindle.
 
-8. Projetos desenvolvidos pela comunidade
-8.1 Python
-Currencies Robot (GitHub) - Membro(s): Khaled - Um Telegram Bot desenvolvido para visualizar a cotação de moedas e altcoins de forma rápida e fácil.
-ImageVisionBot (GitHub) - Membro(s): Pedro Guimarães - Um Telegram bot que usa visão computacional para descrever imagens.
-Myinstantsbot (@Myinstantsbot) (GitHub) - Membro(s): Heylouiz - Um Telegram Bot que busca sons no Myintants e os manda como mensagens de voz.
-Nathy BOT (GitHub) - Membro(s): Vycktor Stark - Bot com AIML + Telepot.
-Robô Db vs 1.0 (GitHub) - Membro(s): Vycktor Stark Adilson Cavalcante - Um Telegram Bot simples que executa até no Qpython.
-Robô Db vs 3.0 (GitHub) - Membro(s): Vycktor Stark - Bot baseado nas antigas versões do Robô Db.
-SiDBot (@sidbot) (GitHub) - Membro(s): TiagoDanin - Um bot baseado nas antigas versões do SiD, agora feito do zero e escrito em Python.
-Timmoty (GitHub) - Membro(s): Francis Taylor - Bot para Telegram feito com Threads nativa da linguagem Python.
-RastreioBot (@RastreioBot) (GitHub) - Membro: GabrielRF - Bot para rastreamento de pacotes cadastrados no sistema dos Correios.
-Send2KindleBot (@Send2KindleBot) (GitHub) - Membro: GabrielRF - Bot para envio de documentos para Kindle.
-8.2 PHP
-Bot Packagist (GitHub) - Membro(s): VitorMattos - Um Telegram Bot para pesquisar em packagist.org
-SendCH-Telegram (GitHub) - Membro(s): TiagoDanin - Um webapp para enviar mensagem com suporte a Markdown no Telegram.
-8.3 Lua
-Robô Db vs 2.0 (GitHub) - Membro(s): Vycktor Stark Adilson Cavalcante Wesley Henrique - Um Telegram Bot baseado no projeto da equipe Synko Developers, e no projeto do SiD feito pelo TiagoDanin.
-SiD (GitHub) - Membro(s): TiagoDanin - Um bot baseado no Otouto com suporte a Inline.
-SpotifyTelegram (GitHub) - Membro(s): TiagoDanin - Uma coleção de plugins para busca no Spotify.
-8.4 Projetos de código fechado
-RobôED (@EdRobot) - Equipe: Synko Developers - Fui criado pra tornar seu grupo mais divertido e organizado.
-Shiiinabot (@shiiinabot) - Membro: Gabriel - Bot para deletar qualquer tipo de mensagem em grupos. Também pode-se deletar mensagens usando Regex.
-Easy Currency (@easy_currency_bot) - Membro: Thomas Groch - É uma ferramenta rápida para obter a taxa de câmbio e conversão de moedas em tempo real, com suporte para Reais, Dólares e Bitcoins. (Bot offline)
-imguradbot (@imguradbot) - Membro: Juliano Dorneles - Um bot para baixar imagens de álbuns do Imgur.
-ts2chbot (@ts2chbot) - Membro: Juliano Dorneles - Um bot para conversão de vídeos comuns para Telescopes (é possível enviar vídeos diretamente ou postar links do Instagram e Youtube - sempre observando o limite máximo de upload para Telescopes, que gira em torno dos 9Mb, independente da duração).
+## 8.2 PHP:
+* Bot Packagist (GitHub) - Membro(s): VitorMattos - Um Telegram Bot para pesquisar em packagist.org
+* SendCH-Telegram (GitHub) - Membro(s): TiagoDanin - Um webapp para enviar mensagem com suporte a Markdown no Telegram.
 
+## 8.3 Lua:
+* Robô Db vs 2.0 (GitHub) - Membro(s): Vycktor Stark Adilson Cavalcante Wesley Henrique - Um Telegram Bot baseado no projeto da equipe Synko Developers, e no projeto do SiD feito pelo TiagoDanin.
+* SiD (GitHub) - Membro(s): TiagoDanin - Um bot baseado no Otouto com suporte a Inline.
+* SpotifyTelegram (GitHub) - Membro(s): TiagoDanin - Uma coleção de plugins para busca no Spotify.
 
-9. Ainda tem dúvidas?
-Está em dúvida em qual VPS escolher? Dê uma olhada aqui.
+## 8.4 Projetos de código fechado:
+* RobôED (@EdRobot) - Equipe: Synko Developers - Fui criado pra tornar seu grupo mais divertido e organizado.
+* Shiiinabot (@shiiinabot) - Membro: Gabriel - Bot para deletar qualquer tipo de mensagem em grupos. Também pode-se deletar mensagens usando Regex.
+* Easy Currency (@easy_currency_bot) - Membro: Thomas Groch - É uma ferramenta rápida para obter a taxa de câmbio e conversão de moedas em tempo real, com suporte para Reais, Dólares e Bitcoins. (Bot offline)
+* imguradbot (@imguradbot) - Membro: Juliano Dorneles - Um bot para baixar imagens de álbuns do Imgur.
+* ts2chbot (@ts2chbot) - Membro: Juliano Dorneles - Um bot para conversão de vídeos comuns para Telescopes (é possível enviar vídeos diretamente ou postar links do Instagram e Youtube - sempre observando o limite máximo de upload para Telescopes, que gira em torno dos 9Mb, independente da duração).
 
-Qualquer dúvida que tiver, pode perguntar lá no Grupo Desenvolvimento de Bots. É um grupo feito por vários desenvolvedores de bots e entusiastas que também buscam aprender. Na maioria dos casos haverá alguém para te ajudar. Sinta-se livre para fazer qualquer pergunta relacionada a bots no Telegram por lá.
+## 9. Ainda tem dúvidas?
+* Está em dúvida em qual VPS escolher? Dê uma olhada aqui.
 
-Tem sugestões para esse artigo? Envie pra mim! =)
+* Qualquer dúvida que tiver, pode perguntar lá no [Grupo de CODIGOS](https://t.me/CODIGOGP). É um grupo feito por vários desenvolvedores de bots, de aplicativos e web. Na maioria dos casos haverá alguém para te ajudar. Sinta-se livre para fazer qualquer pergunta relacionada a bots no Telegram por lá.
 
-
+* Não se esqueça de fazer o nosso curso. [CLIQUE PARA ACESSAR OS VIDEOS.](https://youtube.com/playlist?list=PLJE6tO9EBOQHB-w1ZeATvuQVrOlg05-sq)
 
 Algumas das informações desse artigo foram retiradas de um artigo escrito por @d_Rickyy_b. Você pode acessar o artigo dele em inglês aqui.
+
+## 10. Créditos finais:
+* [Artigo escrito em ingês por @d_Rickyy_b](https://telegra.ph/Introduction-to-bot-programming-02-21)
+* [Artigo escrito em Português por Desenvovedores de bots](https://telegra.ph/Introduction-to-bot-programming-02-21)
+* [Documentação feita com apoio dos ADMs do Grupo de Códigos](https://t.me/CODIGOGP)
