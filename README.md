@@ -9,7 +9,6 @@
 
 ![](https://i.imgur.com/waxVImv.png)
 # RESUMO:
-![](https://i.imgur.com/waxVImv.png)
 
 ## 1️⃣Entre no privado com [@botfather](https://t.me/botfather) e configure o avatar do seu bot:
 * 🔹newbot - Novo Bot.
@@ -38,7 +37,6 @@
 
 ![](https://i.imgur.com/waxVImv.png)
 # SE APROFUNDANDO MAIS:
-![](https://i.imgur.com/waxVImv.png)
 
 # 1. Como criar meu próprio Bot?
 * Antes de iniciar, a pergunta mais importante é: Você sabe alguma linguagem de programação?
