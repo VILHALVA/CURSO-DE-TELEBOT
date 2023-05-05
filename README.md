@@ -38,7 +38,7 @@
 # SE APROFUNDANDO MAIS:
 ![](https://i.imgur.com/waxVImv.png)
 
-## 1. Como criar meu próprio Bot?
+# 1. Como criar meu próprio Bot?
 * Antes de iniciar, a pergunta mais importante é: Você sabe alguma linguagem de programação?
 Para criar um bot no Telegram você necessita criar um pequeno programa que interaja com os servidores do Telegram.
 Se você não sabe alguma linguagem de programação, existem algumas outras alternativas como o "Manybot" que não necessita de habilidades em programação. Nesse artigo não buscaremos tratar da criação de bots no Manybot.
@@ -54,13 +54,13 @@ Importante: Usando o Manybot, você apenas pode fazer aquilo que o Manybot lhe p
 ## 1.3 Programando você mesmo
 * Programar você mesmo o bot lhe permite fazer o que quiser sem qualquer limitação. Você pode fazer de tudo o que seja possível através da bot API. Por exemplo: Você pode criar um bot que está conectado ao sistema de automação da sua casa que poderá ligar e desligar as luzes da casa enviando uma simples mensagem no Telegram. PORÉM: se optar por programar o bot você mesmo, você precisará antes pensar o que irá usar como servidor para o bot (mais informações sobre isso depois). Se você não sabe programar e não pretende aprender como programar, a melhor opção é parar de ler por aqui e usar o "Manybot" ou pagar um programador para criar um bot. Ok, já que você continuou a ler, acredito que você saiba pelo menos uma linguagem de programação (ou pelo menos está disposto a aprender uma). Saiba que Inglês é a principal linguagem do mundo. A maioria do material para estudo para QUALQUER assunto está em inglês. Antes de qualquer coisa, você precisa conseguir ler em inglês, tanto para a programação, quanto para qualquer coisa que fará daqui em diante na vida! Sabendo isso, vamos iniciar com os detalhes.
 
-## 2. Como eu inicio?
+# 2. Como eu inicio?
 ## 2.1 Servidores
 * Vamos iniciar do começo. Para evitar problemas no futuro, você deve começar a pensar AGORA o que irá usar como servidor para seu bot. Um bot é um código que interagem com um servidor (do Telegram) através de uma API. Ou seja, se você quer um bot funcionando 24 horas por dia, 7 dias por semana, você precisará antes de um servidor funcionando 24 horas por dia, 7 dias por semana (obviamente). Abaixo listei algumas coisas que você poderá usar como servidor para seu bot:
-* -Microcomputador ou Raspberry Pi
-* -Ter um computador ligado 24 horas
-* -Pagar por uma VPS para alguma empresa de servidores
-* -Usar um servidor compartilhado (shared hosting).
+* Microcomputador ou Raspberry Pi
+* Ter um computador ligado 24 horas
+* Pagar por uma VPS para alguma empresa de servidores
+* Usar um servidor compartilhado (shared hosting).
 
 * As vantagens e desvantagem são claras: usar um Raspberry Pi consome muito menos energia que um computador e custa muito mais barato. Usando uma VPS você terá muito mais poder de processamento e não precisará se preocupar com a energia ou internet da sua casa, mas precisará pagar a VPS mensalmente.
 * Abaixo colocarei algumas informações sobre servidores disponíveis e seus custos:
@@ -69,38 +69,38 @@ Importante: Usando o Manybot, você apenas pode fazer aquilo que o Manybot lhe p
 * Servidores escaláveis com alto poder de processamento. Isto é, você pode aumentar o poder de processamento conforme o tráfego do programa/bot vá aumentando.
 * Prós: Alto poder de processamento. Várias opções. Algumas opções são muito fáceis de usar. Em alguns você só paga pelo minuto que usa.
 * Contras: Pode ser bem caro
-* -Amazon Web Services (Gratuito no 1º ano)
-* -Google Cloud (Gratuito no 1º ano)
-* -Microsoft Azure
-* -Google App Engine 
-* -How to create a Bot on Google App Engine
-* -Google Cloud Functions 
-* -Building a serverless Telegram bot)
-* -Heroku (possui plano gratuito)
-* -Heroku getting started with Python
-* -Webhooks on Heroku
-* -Skeleton repository
+* Amazon Web Services (Gratuito no 1º ano)
+* Google Cloud (Gratuito no 1º ano)
+* Microsoft Azure
+* Google App Engine 
+* How to create a Bot on Google App Engine
+* Google Cloud Functions 
+* Building a serverless Telegram bot)
+* Heroku (possui plano gratuito)
+* Heroku getting started with Python
+* Webhooks on Heroku
+* Skeleton repository
 * Firebase (possui plano gratuito)
-* -Openshift (possui plano gratuito)
-* -How to run a Bot on Openshift v2
-* -How to run a Bot on Openshift v3
-* -PythonAnywhere (possui plano gratuito para Python)
-* -Glitch (gratuito para Node.js)
-* -Buddy.works (possui plano gratuito)
-* -GearHost (possui plano gratuito para PHP e .NET)
+* Openshift (possui plano gratuito)
+* How to run a Bot on Openshift v2
+* How to run a Bot on Openshift v3
+* PythonAnywhere (possui plano gratuito para Python)
+* Glitch (gratuito para Node.js)
+* Buddy.works (possui plano gratuito)
+* GearHost (possui plano gratuito para PHP e .NET)
 
 ## VPS (Melhor opção para grandes bots):
 * O "Virtual Private Server" funciona como um computador virtual ligado 24 horas por dia.
 Pros: Pagamento mensal fixo. Praticamente um computador rodando na nuvem.
 Contras: Um pouco complicado para configurar o servidor.
-* -DigitalOcean
-* -Linode
-* -RamNode
-* -Scaleway (Possui o servidor em Amsterdã mais próximo da Bot API do Telegram)
-* -RunAbove
-* -Sabahost
-* -Netcup
-* -OVH
+* DigitalOcean
+* Linode
+* RamNode
+* Scaleway (Possui o servidor em Amsterdã mais próximo da Bot API do Telegram)
+* RunAbove
+* Sabahost
+* Netcup
+* OVH
 
 [Bônus! Você pode ver uma tabla com as VPSs de melhor CustoxBenefício clicando aqui.](https://docs.google.com/spreadsheets/d/1LFRZ2eAFZ53eobP8BF81j_1djKqQ-nRYmToeV0Ev2_k/edit#gid=0)
 
@@ -109,44 +109,44 @@ Contras: Um pouco complicado para configurar o servidor.
 Prós: Vários são gratuitos. Muito fácil de serem usados. Você ainda poderá usar para criar sites facilmente. Melhor opção para pequenos bots em PHP.
 Contras: Funcionam APENAS para a linguagem de programação PHP. O poder de processamento é MUITO baixo, mesmo os bots mais simples podem não responder rapidamente. Vários dos servidores gratuitos não funcionam 24 horas por dia.
 SharedHost Pagos:
-* -Hostinger Brasil (suporte em português)
-* -iPage
-* -BlueHost.com
-* -A2Hosting
-* -HostGator
+* Hostinger Brasil (suporte em português)
+* iPage
+* BlueHost.com
+* A2Hosting
+* HostGator
 
 ## SharedHosts Gratuitos:
-* -AlterVista.org (melhor opção dentre os gratuitos)
-* -000webhost.com (Mais fácil de ser usado. Online apenas 23 horas por dia)
-* -1FreeHosting.com
-* -FreeHosting.io
-* -x10Hosting.com
-* -100webspace.com
+* AlterVista.org (melhor opção dentre os gratuitos)
+* 000webhost.com (Mais fácil de ser usado. Online apenas 23 horas por dia)
+* 1FreeHosting.com
+* FreeHosting.io
+* x10Hosting.com
+* 100webspace.com
 
 ## IDEs na Web:
 * Funcionam apenas quando o navegador está aberto, após você fechar o navegador, o código continua salvo, mas o bot para de funcionar.
 * Prós: Excelentes para aprender a programar e para testar o código.
 * Contras: Versões gratuitas só funcionam quando o navegador está acessando o site.
-* -Codenvy
-* -How to create a Bot on Codenvy
-* -Koding
-* -Cloud9
+* Codenvy
+* How to create a Bot on Codenvy
+* Koding
+* Cloud9
 
 ## Tunnels:
 * Programas que lhe permitem receber requisições webhook do Telegram diretamente no seu computador sem precisar se preocupar com coisas como Firewall, DNS ou Domínio.
 Prós: O poder de processamento é o do seu computador. Possui planos gratuitos.
 Contras: Seu computador precisa estar ligado para receber as requisições. Usar o sistema de longpooling do Telegram lhe permite fazer bots sem se preocupar com esses sistemas de tunelamento.
--localtunnel (gratuito)
--ngrok (possui plano gratuito)
+* localtunnel (gratuito)
+* ngrok (possui plano gratuito)
 
 ## Microcomputadores:
 * Microcomputadores (também chamados de MiniPC) são muito baratos e possuem baixíssimo gasto de energia.
 Prós: Você só paga para comprar o Microcomputador. Dá pra colocar uns controles de Videogame e ir jogar nele xD 
 Contras: A latência (ping) da internet em sua casa pode não ser tão rápida. Caso a energia da sua casa caia, o Microcomputador desliga.
-* -RaspberryPi
-* -BananaPi
-* -Comprar MiniPC
-* -Importar MiniPC
+* RaspberryPi
+* BananaPi
+* Comprar MiniPC
+* Importar MiniPC
 
 ## 2.2 Linguagem de Programação
 * Se você já sabe alguma linguagem de programação, pode ir direto e usá-la. Se você ainda não sabe nenhuma linguagem ou pretende usar alguma outra que se encaixe melhor no bot, dê uma olhada nas sugestões de linguagens para programação de bots.
@@ -159,7 +159,7 @@ Contras: A latência (ping) da internet em sua casa pode não ser tão rápida. 
 
 * Node.js (JavaScript) é sem dúvida a linguagem mais fácil de todas as que foram aqui listadas. Suas frameworks são as mais simples de serem usada. Porém, apesar de ser extremamente fácil, noto que poucos desenvolvedores acabam usando essa linguagem para desenvolvimento de bots no Telegram. Se você busca uma linguagem extremamente fácil, essa é a ideal.
 
-## 3. Library, Framework ou nenhum dos dois?
+# 3. Library, Framework ou nenhum dos dois?
 * A Bot API do Telegram usa um sistema baseado em requisições HTTP. Você acessa um URL e passa os parâmetros necessários. Após isso, o Telegram responde a sua requisição com uma resposta codificada em JSON. Você precisará de um codificador e decodificador de JSON e alguns códigos para lhe permitir fazer requisições usando HTTP. Isso pode ser um pouco desgastante... Porque não usar então uma Library ou uma Framework?
 
 * Primeiramente você deve diferenciar os dois termos. Library é um conjunto de códigos usados para uma tarefa ou para um grupo de tarefas. Ex. libraries para edição de imagens provavelmente contém funções como "redimensionar" ou "rotacionar", que você pode usar diretamente no seu código. Isto é, você não precisa criar um código que faça isso, já que alguém já criou um código para facilitar sua vida.
@@ -170,7 +170,7 @@ Contras: A latência (ping) da internet em sua casa pode não ser tão rápida. 
 
 * Frameworks são altamente recomendadas no desenvolvimento inicial de bots para o Telegram. No próprio site do Telegram você pode encontrar algumas libraries, frameworks e exemplos de bots.
 
-## 4. Entendendo os HTTP Requests:
+# 4. Entendendo os HTTP Requests:
 ## 4.1 Requisições HTTP de uma maneira geral:
 * A bot API do Telegram se comunica através de Requisições HTTP. HTTP é um protocolo de comunicação baseado em TCP/IP usado para enviar dados (arquivos HTML, imagens, texto, vídeos, etc...) na internet. Há várias formas de enviar informações usando Requisições HTTP, porém aqui trataremos apenas das requisições GET e POST, que são as suportadas pela Bot API. De uma maneira geral, GET é usada para receber informações através de uma url enquanto POST é usado para enviar informações.
 
@@ -208,13 +208,13 @@ O token do nosso bot de exemplo é:
 
 * Especificamos que o bot que criamos deve enviar uma mensagem escrita "Ola" para o chat com o usuário de ID "777000". Recebemos informações sobre quem enviou a mensagem (o bot), o chat para qual foi enviado a mensagem, e informações sobre a própria mensagem enviada em si (id da mensagem, data de envio e texto).
 
-## 5. Vamos programar em Python!
+# 5. Vamos programar em Python!
 * Aqui não tentaremos lhe ensinar como programar. Apenas lhe daremos uma breve introdução de como iniciar a programação de um bot usando Python.
 * Nesse exemplo, usarei a linguagem de programação Python e a framework python-telegram-bot. Instale a framework conforme as instruções do guia de instalação. Crie um novo projeto com um arquivo chamado main.py. Você precisa importar algumas classes da framework, criar uma instância do "Updater" e criar uma função para ser executada toda vez que um usuário escrever algo. No final ele deve parecer algo assim. Quando você conseguir com sucesso usar o código acima, tente algo um pouco mais complicado.
 
 * Agora que você tem seu primeiro bot em Python rodando, você pode tentar ampliá-lo. Adicione mais comandos, respostas personalizadas, etc. Uma boa ideia é dar uma olhada nesses exemplos para aprender mais sobre essa framework. É importante que você leia a documentação da framework e a documentação da Bot API do Telegram. Saber os comandos e parâmetros lhe ajudará muito no futuro.
 
-## 6. Vamos programar em PHP!
+# 6. Vamos programar em PHP!
 * Aqui não tentaremos lhe ensinar como programar em PHP. Apenas lhe daremos uma breve introdução sobre como iniciar a programação de um bot usando PHP em um Shared Host.
 
 * Primeiro crie um bot usando o BotFather e anote o token que ele lhe enviar. O token que vamos usar nesse exemplo é: "123456789:ABFCFstx5e1bfbd_WBOYDKITDt80E5hkur5". Obviamente você não pode usar esse token, você deverá usar o token que lhe foi enviado pelo BotFather.
@@ -231,7 +231,7 @@ O token do nosso bot de exemplo é:
 
 * Show! Agora você tem seu primeiro bot em PHP funcionando perfeitamente! Agora tente dar uma olhada no código e entender o que cada comando significa, bem como tentar desenvolver seus próprios comandos! É de extrema importância que você leia a documentação da Bot API do Telegram para entender como funcionam cada um dos métodos, bem como o funcionamento da API como um todo.
 
-## 7. Frameworks / SDK / Wrapper para Telegram:
+# 7. Frameworks / SDK / Wrapper para Telegram:
 ## 7.1 Python:
 * python-telegram-bot
 * pyTelegramBotAPI
@@ -271,7 +271,7 @@ O token do nosso bot de exemplo é:
 * telegram-bot-lua - Lua
 * TarnaBot - C++
 
-## 8. Projetos desenvolvidos pela comunidade:
+# 8. Projetos desenvolvidos pela comunidade:
 ## 8.1 Python:
 * Currencies Robot (GitHub) - Membro(s): Khaled - Um Telegram Bot desenvolvido para visualizar a cotação de moedas e altcoins de forma rápida e fácil.
 * ImageVisionBot (GitHub) - Membro(s): Pedro Guimarães - Um Telegram bot que usa visão computacional para descrever imagens.
@@ -300,7 +300,7 @@ O token do nosso bot de exemplo é:
 * imguradbot (@imguradbot) - Membro: Juliano Dorneles - Um bot para baixar imagens de álbuns do Imgur.
 * ts2chbot (@ts2chbot) - Membro: Juliano Dorneles - Um bot para conversão de vídeos comuns para Telescopes (é possível enviar vídeos diretamente ou postar links do Instagram e Youtube - sempre observando o limite máximo de upload para Telescopes, que gira em torno dos 9Mb, independente da duração).
 
-## 9. Ainda tem dúvidas?
+# 9. Ainda tem dúvidas?
 * Está em dúvida em qual VPS escolher? Dê uma olhada aqui.
 
 * Qualquer dúvida que tiver, pode perguntar lá no [Grupo de CODIGOS](https://t.me/CODIGOGP). É um grupo feito por vários desenvolvedores de bots, de aplicativos e web. Na maioria dos casos haverá alguém para te ajudar. Sinta-se livre para fazer qualquer pergunta relacionada a bots no Telegram por lá.
@@ -309,7 +309,7 @@ O token do nosso bot de exemplo é:
 
 Algumas das informações desse artigo foram retiradas de um artigo escrito por @d_Rickyy_b. Você pode acessar o artigo dele em inglês aqui.
 
-## 10. Créditos finais:
-* [Artigo escrito em ingês por @d_Rickyy_b](https://telegra.ph/Introduction-to-bot-programming-02-21)
-* [Artigo escrito em Português por Desenvovedores de bots](https://telegra.ph/Introduction-to-bot-programming-02-21)
-* [Documentação feita com apoio dos ADMs do Grupo de Códigos](https://t.me/CODIGOGP)
+# 10. Créditos finais:
+* [Artigo escrito em ingês por @d_Rickyy_b.](https://telegra.ph/Introduction-to-bot-programming-02-21)
+* [Artigo escrito em Português por Desenvovedores de bots.](https://telegra.ph/Introduction-to-bot-programming-02-21)
+* [Documentação feita com apoio dos ADMs do Grupo de Códigos.](https://t.me/CODIGOGP)
