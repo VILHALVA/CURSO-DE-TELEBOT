@@ -57,10 +57,10 @@ Importante: Usando o Manybot, você apenas pode fazer aquilo que o Manybot lhe p
 # 2. Como eu inicio?
 ## 2.1 Servidores
 * Vamos iniciar do começo. Para evitar problemas no futuro, você deve começar a pensar AGORA o que irá usar como servidor para seu bot. Um bot é um código que interagem com um servidor (do Telegram) através de uma API. Ou seja, se você quer um bot funcionando 24 horas por dia, 7 dias por semana, você precisará antes de um servidor funcionando 24 horas por dia, 7 dias por semana (obviamente). Abaixo listei algumas coisas que você poderá usar como servidor para seu bot:
-* Microcomputador ou Raspberry Pi
-* Ter um computador ligado 24 horas
-* Pagar por uma VPS para alguma empresa de servidores
-* Usar um servidor compartilhado (shared hosting).
+* 🔰Microcomputador ou Raspberry Pi
+* 🔰Ter um computador ligado 24 horas
+* 🔰Pagar por uma VPS para alguma empresa de servidores
+* 🔰Usar um servidor compartilhado (shared hosting).
 
 * As vantagens e desvantagem são claras: usar um Raspberry Pi consome muito menos energia que um computador e custa muito mais barato. Usando uma VPS você terá muito mais poder de processamento e não precisará se preocupar com a energia ou internet da sua casa, mas precisará pagar a VPS mensalmente.
 * Abaixo colocarei algumas informações sobre servidores disponíveis e seus custos:
@@ -68,39 +68,39 @@ Importante: Usando o Manybot, você apenas pode fazer aquilo que o Manybot lhe p
 ## Nuvem:
 * Servidores escaláveis com alto poder de processamento. Isto é, você pode aumentar o poder de processamento conforme o tráfego do programa/bot vá aumentando.
 * Prós: Alto poder de processamento. Várias opções. Algumas opções são muito fáceis de usar. Em alguns você só paga pelo minuto que usa.
-* Contras: Pode ser bem caro
-* Amazon Web Services (Gratuito no 1º ano)
-* Google Cloud (Gratuito no 1º ano)
-* Microsoft Azure
-* Google App Engine 
-* How to create a Bot on Google App Engine
-* Google Cloud Functions 
-* Building a serverless Telegram bot)
-* Heroku (possui plano gratuito)
-* Heroku getting started with Python
-* Webhooks on Heroku
-* Skeleton repository
-* Firebase (possui plano gratuito)
-* Openshift (possui plano gratuito)
-* How to run a Bot on Openshift v2
-* How to run a Bot on Openshift v3
-* PythonAnywhere (possui plano gratuito para Python)
-* Glitch (gratuito para Node.js)
-* Buddy.works (possui plano gratuito)
-* GearHost (possui plano gratuito para PHP e .NET)
+* 🔰Contras: Pode ser bem caro
+* 🔰Amazon Web Services (Gratuito no 1º ano)
+* 🔰Google Cloud (Gratuito no 1º ano)
+* 🔰Microsoft Azure
+* 🔰Google App Engine 
+* 🔰How to create a Bot on Google App Engine
+* 🔰Google Cloud Functions 
+* 🔰Building a serverless Telegram bot)
+* 🔰Heroku (possui plano gratuito)
+* 🔰Heroku getting started with Python
+* 🔰Webhooks on Heroku
+* 🔰Skeleton repository
+* 🔰Firebase (possui plano gratuito)
+* 🔰Openshift (possui plano gratuito)
+* 🔰How to run a Bot on Openshift v2
+* 🔰How to run a Bot on Openshift v3
+* 🔰PythonAnywhere (possui plano gratuito para Python)
+* 🔰Glitch (gratuito para Node.js)
+* 🔰Buddy.works (possui plano gratuito)
+* 🔰GearHost (possui plano gratuito para PHP e .NET)
 
 ## VPS (Melhor opção para grandes bots):
-* O "Virtual Private Server" funciona como um computador virtual ligado 24 horas por dia.
+* 🔰O "Virtual Private Server" funciona como um computador virtual ligado 24 horas por dia.
 Pros: Pagamento mensal fixo. Praticamente um computador rodando na nuvem.
 Contras: Um pouco complicado para configurar o servidor.
-* DigitalOcean
-* Linode
-* RamNode
-* Scaleway (Possui o servidor em Amsterdã mais próximo da Bot API do Telegram)
-* RunAbove
-* Sabahost
-* Netcup
-* OVH
+* 🔰DigitalOcean
+* 🔰Linode
+* 🔰RamNode
+* 🔰Scaleway (Possui o servidor em Amsterdã mais próximo da Bot API do Telegram)
+* 🔰RunAbove
+* 🔰Sabahost
+* 🔰Netcup
+* 🔰OVH
 
 [Bônus! Você pode ver uma tabla com as VPSs de melhor CustoxBenefício clicando aqui.](https://docs.google.com/spreadsheets/d/1LFRZ2eAFZ53eobP8BF81j_1djKqQ-nRYmToeV0Ev2_k/edit#gid=0)
 
@@ -109,50 +109,50 @@ Contras: Um pouco complicado para configurar o servidor.
 Prós: Vários são gratuitos. Muito fácil de serem usados. Você ainda poderá usar para criar sites facilmente. Melhor opção para pequenos bots em PHP.
 Contras: Funcionam APENAS para a linguagem de programação PHP. O poder de processamento é MUITO baixo, mesmo os bots mais simples podem não responder rapidamente. Vários dos servidores gratuitos não funcionam 24 horas por dia.
 SharedHost Pagos:
-* Hostinger Brasil (suporte em português)
-* iPage
-* BlueHost.com
-* A2Hosting
-* HostGator
+* 🔰Hostinger Brasil (suporte em português)
+* 🔰iPage
+* 🔰BlueHost.com
+* 🔰A2Hosting
+* 🔰HostGator
 
 ## SharedHosts Gratuitos:
-* AlterVista.org (melhor opção dentre os gratuitos)
-* 000webhost.com (Mais fácil de ser usado. Online apenas 23 horas por dia)
-* 1FreeHosting.com
-* FreeHosting.io
-* x10Hosting.com
-* 100webspace.com
+* 🔰AlterVista.org (melhor opção dentre os gratuitos)
+* 🔰000webhost.com (Mais fácil de ser usado. Online apenas 23 horas por dia)
+* 🔰1FreeHosting.com
+* 🔰FreeHosting.io
+* 🔰x10Hosting.com
+* 🔰100webspace.com
 
 ## IDEs na Web:
 * Funcionam apenas quando o navegador está aberto, após você fechar o navegador, o código continua salvo, mas o bot para de funcionar.
 * Prós: Excelentes para aprender a programar e para testar o código.
 * Contras: Versões gratuitas só funcionam quando o navegador está acessando o site.
-* Codenvy
-* How to create a Bot on Codenvy
-* Koding
-* Cloud9
+* 🔰Codenvy
+* 🔰How to create a Bot on Codenvy
+* 🔰Koding
+* 🔰Cloud9
 
 ## Tunnels:
 * Programas que lhe permitem receber requisições webhook do Telegram diretamente no seu computador sem precisar se preocupar com coisas como Firewall, DNS ou Domínio.
 Prós: O poder de processamento é o do seu computador. Possui planos gratuitos.
 Contras: Seu computador precisa estar ligado para receber as requisições. Usar o sistema de longpooling do Telegram lhe permite fazer bots sem se preocupar com esses sistemas de tunelamento.
-* localtunnel (gratuito)
-* ngrok (possui plano gratuito)
+* 🔰localtunnel (gratuito)
+* 🔰ngrok (possui plano gratuito)
 
 ## Microcomputadores:
 * Microcomputadores (também chamados de MiniPC) são muito baratos e possuem baixíssimo gasto de energia.
 Prós: Você só paga para comprar o Microcomputador. Dá pra colocar uns controles de Videogame e ir jogar nele xD 
 Contras: A latência (ping) da internet em sua casa pode não ser tão rápida. Caso a energia da sua casa caia, o Microcomputador desliga.
-* RaspberryPi
-* BananaPi
-* Comprar MiniPC
-* Importar MiniPC
+* 🔰RaspberryPi
+* 🔰BananaPi
+* 🔰Comprar MiniPC
+* 🔰Importar MiniPC
 
 ## 2.2 Linguagem de Programação
 * Se você já sabe alguma linguagem de programação, pode ir direto e usá-la. Se você ainda não sabe nenhuma linguagem ou pretende usar alguma outra que se encaixe melhor no bot, dê uma olhada nas sugestões de linguagens para programação de bots.
-* PHP
-* Python
-* Node.js
+* 🔰PHP
+* 🔰Python
+* 🔰Node.js
 * A maioria dos bots que vi no Telegram são programados em Python, por isso há inúmeras Libraries e Frameworks (mais explicações sobre isso depois) disponíveis. Python é fácil para se aprender e fácil para se programar. A comunidade de desenvolvedores em Python é gigantesca. Se você busca uma linguagem com muito suporte, esta é a ideal.
 
 * PHP é talvez ainda mais fácil que Python! Porém, a leitura de códigos é um pouco mais complicada. PHP é uma linguagem voltada ao desenvolvimento de sites e por isso há vários sites oferecendo servidores rodando apenas PHP a preços baixíssimos e até gratuitos. Por ser voltada ao desenvolvimento de website, PHP é a melhor linguagem para desenvolver bots usando o sistema de webhook do Telegram. Se você busca uma linguagem fácil, com servidores baratos, e que também lhe permita desenvolver sites, esta é a ideal. O SoloLearn é um aplicativo excelente para se iniciar no PHP.
@@ -233,43 +233,44 @@ O token do nosso bot de exemplo é:
 
 # 7. Frameworks / SDK / Wrapper para Telegram:
 ## 7.1 Python:
-* python-telegram-bot
-* pyTelegramBotAPI
-* Telepot
-* Telethon *MTProto Lib
-* Pyrogram *MTProto Lib
-* AIOGram
-* 7.2 PHP
-* PHP Telegram Bot
-* TuriBot
-* TelegramBotApiBundle
-* Telegram Bot Api Base
-* MadelineProto *MTProto Lib
-* Telegram Bot PHP SDK
-* Telegram Cli Client
-* PHP TdLib *MTProto Lib
+* 🔰python-telegram-bot
+* 🔰pyTelegramBotAPI
+* 🔰Telepot
+* 🔰Telethon *MTProto Lib
+* 🔰Pyrogram *MTProto Lib
+* 🔰AIOGram
+
+## 7.2 PHP
+* 🔰PHP Telegram Bot
+* 🔰TuriBot
+* 🔰TelegramBotApiBundle
+* 🔰Telegram Bot Api Base
+* 🔰MadelineProto *MTProto Lib
+* 🔰Telegram Bot PHP SDK
+* 🔰Telegram Cli Client
+* 🔰PHP TdLib *MTProto Lib
 
 ## 7.3 Node.js:
-* Botgram
-* Node.js Telegram Bot API
-* Telegraf
-* Telebot
-* tgapi
-* telegram-bot-api
-* Slimbot
+* 🔰Botgram
+* 🔰Node.js Telegram Bot API
+* 🔰Telegraf
+* 🔰Telebot
+* 🔰tgapi
+* 🔰telegram-bot-api
+* 🔰Slimbot
  
 ## 7.4 Outras linguagens:
-* telegram-bot-ruby - Ruby
-* telegram-bot-swift - Swift
-* Jack Telegram Bot - MoonScript
-* Margelet - Go
-* go-telegram-bot-api
-* Otouto - Lua
-* Telegram Bot Bash - Bash
-* Telegram Bot Java Library - Java
-* haskell-telegram-api - Haskell
-* telegram-bot-lua - Lua
-* TarnaBot - C++
+* 🔰telegram-bot-ruby - Ruby
+* 🔰telegram-bot-swift - Swift
+* 🔰Jack Telegram Bot - MoonScript
+* 🔰Margelet - Go
+* 🔰go-telegram-bot-api
+* 🔰Otouto - Lua
+* 🔰Telegram Bot Bash - Bash
+* 🔰Telegram Bot Java Library - Java
+* 🔰haskell-telegram-api - Haskell
+* 🔰telegram-bot-lua - Lua
+* 🔰TarnaBot - C++
 
 # 8. Projetos desenvolvidos pela comunidade:
 ## 8.1 Python:
