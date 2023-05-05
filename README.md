@@ -7,6 +7,7 @@
 
 <img src="https://blog.vandersonguidi.com.br/wp-content/uploads/2019/04/S_863346-MLB29530915311_032019-O.jpg" align="center" width="280"> <br>
 
+![](https://i.imgur.com/waxVImv.png)
 # RESUMO:
 ![](https://i.imgur.com/waxVImv.png)
 
@@ -35,6 +36,7 @@
 
 ## ✅Pronto: É só executar o código na sua IDE ou no servidor remoto.
 
+![](https://i.imgur.com/waxVImv.png)
 # SE APROFUNDANDO MAIS:
 ![](https://i.imgur.com/waxVImv.png)
 
@@ -306,8 +308,6 @@ O token do nosso bot de exemplo é:
 * Qualquer dúvida que tiver, pode perguntar lá no [Grupo de CODIGOS](https://t.me/CODIGOGP). É um grupo feito por vários desenvolvedores de bots, de aplicativos e web. Na maioria dos casos haverá alguém para te ajudar. Sinta-se livre para fazer qualquer pergunta relacionada a bots no Telegram por lá.
 
 * Não se esqueça de fazer o nosso curso. [CLIQUE PARA ACESSAR OS VIDEOS.](https://youtube.com/playlist?list=PLJE6tO9EBOQHB-w1ZeATvuQVrOlg05-sq)
-
-Algumas das informações desse artigo foram retiradas de um artigo escrito por @d_Rickyy_b. Você pode acessar o artigo dele em inglês aqui.
 
 # 10. Créditos finais:
 * [Artigo escrito em ingês por @d_Rickyy_b.](https://telegra.ph/Introduction-to-bot-programming-02-21)
