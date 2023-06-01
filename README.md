@@ -4,6 +4,7 @@
 [![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA)
 [![GitHub Repo stars](https://img.shields.io/badge/VEJA-DOCUMENTAÇÃO-03A9F4?logo=google)](https://core.telegram.org/bots/api) <br>
 [![GitHub Repo stars](https://img.shields.io/badge/CURSO-COMPRETO-df1010?logo=youtube)](https://youtube.com/playlist?list=PLJE6tO9EBOQHB-w1ZeATvuQVrOlg05-sq)
+[![GitHub Repo stars](https://img.shields.io/badge/CURSO%20COM-VYCKTORSTARK-03A9F4?logo=google)](https://vycktorstark.github.io/CriandoBot/)
 <br>
 
 <img src="https://blog.vandersonguidi.com.br/wp-content/uploads/2019/04/S_863346-MLB29530915311_032019-O.jpg" align="center" width="280"> <br>
