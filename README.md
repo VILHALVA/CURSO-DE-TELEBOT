@@ -7,7 +7,7 @@
 [![GitHub Repo stars](https://img.shields.io/badge/CURSO%20COM-VYCKTORSTARK-03A9F4?logo=google)](https://vycktorstark.github.io/CriandoBot/)
 <br>
 
-<img src="https://blog.vandersonguidi.com.br/wp-content/uploads/2019/04/S_863346-MLB29530915311_032019-O.jpg" align="center" width="280"> <br>
+<img src="https://static-s.aa-cdn.net/img/gp/20600007932516/4PlwdrLxkk6RpE8Yl6i-4Ck0zX_5N0arxlcF0lffWGMK2tGxiN0NrASnyq6mztGgeD-a?v=1" align="center" width="280"> <br>
 
 ![](https://i.imgur.com/waxVImv.png)
 # RESUMO:
