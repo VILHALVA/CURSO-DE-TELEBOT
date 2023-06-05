@@ -9,7 +9,7 @@
 
 <img src="https://static-s.aa-cdn.net/img/gp/20600007932516/4PlwdrLxkk6RpE8Yl6i-4Ck0zX_5N0arxlcF0lffWGMK2tGxiN0NrASnyq6mztGgeD-a?v=1" align="center" width="280"> <br>
 
-# RESUMO:
+# 💫RESUMO:
 
 ## 1️⃣Entre no privado com [@botfather](https://t.me/botfather) e configure o avatar do seu bot:
 * 🔹newbot - Novo Bot.
@@ -37,7 +37,7 @@
 ## ✅Pronto: É só executar o código na sua IDE ou no servidor remoto.
 
 ![](https://i.imgur.com/waxVImv.png)
-# SE APROFUNDANDO MAIS:
+# 💥SE APROFUNDANDO MAIS:
 
 # 1. Como criar meu próprio Bot?
 Antes de iniciar, a pergunta mais importante é: Você sabe alguma linguagem de programação?
@@ -199,13 +199,17 @@ O token do nosso bot de exemplo é:
 
 * Conforme lemos no https://core.telegram.org/bots/api, que é a documentação da Bot API. Há vários métodos. Um dos mais simples é o método getMe que retorna informações sobre o bot. Então vamos acessar no nosso navegador a URL:
 * https://api.telegram.org/bot123456789:ABFCFstx5e1bfbd_WBOYDKITDt80E5hkur5/getMe
+<img src="https://telegra.ph/file/a8d9077f88d02cc39f352.png" align="center" width="400"> <br>
 
 * Acabamos de enviar uma requisição GET para a Bot API requisitando informações sobre o bot que acabamos de criar. A Bot API respondeu em formato JSON que nosso bot possui ID de número 123456789 e é um bot de nome "Exemplo" e usuário "Exemplobot".
 
 * Agora tentaremos enviar uma mensagem para o usuário com ID de número 777000 dizendo "Ola" (seria bom que você tentasse isso com seu próprio ID).
+<img src="https://telegra.ph/file/34ffdb6648f6a078b3fd5.png" align="center" width="400"> <br>
 
 * Conforme vimos na documentação, o método sendMessage tem como parâmetros obrigatórios "chat_id" e "text". Então acessaremos o seguinte link:
 * https://api.telegram.org/bot123456789:ABFCFstx5e1bfbd_WBOYDKITDt80E5hkur5/sendMessage?chat_id=777000&text=Ola
+* Especificamos que o bot que criamos deve enviar uma mensagem escrita "Ola" para o chat com o usuário de ID "777000". Tivemos sucesso e a Bot API retornou a seguinte resposta:
+<img src="https://telegra.ph/file/cefe3fb3af32d6a060377.png" align="center" width="400"> <br>
 
 * Especificamos que o bot que criamos deve enviar uma mensagem escrita "Ola" para o chat com o usuário de ID "777000". Recebemos informações sobre quem enviou a mensagem (o bot), o chat para qual foi enviado a mensagem, e informações sobre a própria mensagem enviada em si (id da mensagem, data de envio e texto).
 
@@ -221,6 +225,8 @@ Aqui não tentaremos lhe ensinar como programar em PHP. Apenas lhe daremos uma b
 * Primeiro crie um bot usando o BotFather e anote o token que ele lhe enviar. O token que vamos usar nesse exemplo é: "123456789:ABFCFstx5e1bfbd_WBOYDKITDt80E5hkur5". Obviamente você não pode usar esse token, você deverá usar o token que lhe foi enviado pelo BotFather.
 
 * Nesse exemplo usaremos o servidor gratuito para testes 000webhost. Crie sua conta no site (escolha um nome para seu site), faça login e clique em "File manager" para iniciar o envio de arquivos.
+* Agora vamos criar um arquivo chamado bot.php. E nele colocaremos esse código com nosso próprio token. Ficará dessa forma:
+<img src="https://telegra.ph/file/fa35956e6697ad0e9debd.png" align="center" width="400"> <br>
 
 * Obviamente o arquivo possui mais de 160 linhas. Apertaremos "Salvar" e pronto, temos o arquivo salvo no servidor. Para que o arquivo seja executado todas as vezes que o bot receber alguma mensagem, temos que conectar o sistema de Webhook do Telegram com o nosso servidor. No nosso exemplo o nome do site é "telegrambot", o domínio do site é "telegrambot.000webhostapp.com" e o arquivo é "bot.php". Dessa forma, para acessar o site do arquivo pela internet, usamos o link "telegrambot.000webhostapp.com/bot.php". Para configurar o Webhook apenas colocaremos no navegador o link:
 
@@ -229,6 +235,7 @@ Aqui não tentaremos lhe ensinar como programar em PHP. Apenas lhe daremos uma b
 * Nesse caso, "123456789:ABFCFstx5e1bfbd_WBOYDKITDt80E5hkur5" seria o Token do seu bot.
 
 * Pronto! Se tudo der certo, receberemos uma mensagem de confirmação informando que o Webhook foi configurado corretamente. Se enviarmos "/start" para o bot ele nos responderá da seguinte forma:
+<img src="https://telegra.ph/file/b59bd055e64aa2a19f6df.png" align="center" width="400"> <br>
 
 * Show! Agora você tem seu primeiro bot em PHP funcionando perfeitamente! Agora tente dar uma olhada no código e entender o que cada comando significa, bem como tentar desenvolver seus próprios comandos! É de extrema importância que você leia a documentação da Bot API do Telegram para entender como funcionam cada um dos métodos, bem como o funcionamento da API como um todo.
 
