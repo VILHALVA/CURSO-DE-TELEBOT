@@ -9,7 +9,6 @@
 
 <img src="https://static-s.aa-cdn.net/img/gp/20600007932516/4PlwdrLxkk6RpE8Yl6i-4Ck0zX_5N0arxlcF0lffWGMK2tGxiN0NrASnyq6mztGgeD-a?v=1" align="center" width="280"> <br>
 
-![](https://i.imgur.com/waxVImv.png)
 # RESUMO:
 
 ## 1️⃣Entre no privado com [@botfather](https://t.me/botfather) e configure o avatar do seu bot:
@@ -312,5 +311,5 @@ Aqui não tentaremos lhe ensinar como programar em PHP. Apenas lhe daremos uma b
 
 # 10. Créditos finais:
 * [Artigo escrito em ingês por @d_Rickyy_b.](https://telegra.ph/Introduction-to-bot-programming-02-21)
-* [Artigo escrito em Português por Desenvovedores de bots.](https://telegra.ph/Introduction-to-bot-programming-02-21)
+* [Artigo escrito em Português por Desenvovedores de bots.](https://telegra.ph/Introdu%C3%A7%C3%A3o-a-programa%C3%A7%C3%A3o-de-bots-no-Telegram-12-16)
 * [Documentação feita com apoio dos ADMs do Grupo de Códigos.](https://t.me/CODIGOGP)
