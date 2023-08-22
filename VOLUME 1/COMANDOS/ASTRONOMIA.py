@@ -1,9 +1,12 @@
+#=================== [ A ] ALMA DO BOT: ================================
 import telebot
 TOKEN = "TOKEN AQUI"
 bot = telebot.TeleBot(TOKEN)
 def verificar(mensagem):
     return True
 
+#=================== [ B ] COMANDOS DO BOT: ============================
+#--------------------[ 1 ] OPÇÕES DE MENU: -----------------------------
 @bot.message_handler(commands=["sol"])
 def sol(mensagem):
     bot.send_message(mensagem.chat.id, "O Sol (do latim sol, solis) é a estrela central do Sistema Solar. Todos os outros corpos do Sistema Solar, como planetas, planetas anões, asteroides, cometas e poeira, bem como todos os satélites associados a estes corpos, giram ao seu redor. Responsável por 99,86 da massa do Sistema Solar, o Sol possui uma massa 332 900 vezes maior do que a da Terra, e um volume 1 300 000 vezes maior do que o do nosso planeta. A distância da Terra ao Sol é de cerca de 150 milhões de quilômetros ou 1 unidade astronômica (UA). Esta distância varia ao longo do ano, de um mínimo de 147,1 milhões de quilômetros (0,9833 UA), no perélio (ou periélio), a um máximo de 152,1 milhões de quilômetros (1,017 UA), no afélio (que ocorre em torno do dia 4 de julho). A luz solar demora aproximadamente 8 minutos e 18 segundos para chegar à Terra. Energia do Sol na forma de luz solar é armazenada em glicose por organismos vivos através da fotossíntese, processo do qual, direta ou indiretamente, dependem todos os seres vivos que habitam nosso planeta. A energia solar também é responsável pelos fenômenos meteorológicos e o clima na Terra. Saiba mais: https://pt.wikipedia.org/wiki/Sol")

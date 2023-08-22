@@ -13,8 +13,8 @@ setInterval(checkForNewVideos, 3600000);
 Para criar um bot do Telegram em JavaScript que envia os vídeos dos canais do YouTube em que o usuário está inscrito para um canal do Telegram, é necessário usar a API do YouTube para buscar por novos vídeos e a API do Telegram para enviar as mensagens.
 
 Segue abaixo um exemplo de como implementar isso:
-* 1) Criar um bot no Telegram e guardar o token de acesso.
-* 2) Obter as credenciais da API do YouTube seguindo os passos descritos na [documentação](https://developers.google.com/youtube/registering_an_application).
-* 3) Instalar os pacotes google-auth e google-api-nodejs-client usando o npm.
+* 1- Criar um bot no Telegram e guardar o token de acesso.
+* 2- Obter as credenciais da API do YouTube seguindo os passos descritos na [documentação](https://developers.google.com/youtube/registering_an_application).
+* 3- Instalar os pacotes google-auth e google-api-nodejs-client usando o npm.
 
 É importante notar que o código acima apenas busca pelos últimos vídeos dos canais do YouTube a cada hora. É possível ajustar a frequência da verificação alterando o intervalo de tempo passado para a função setInterval.

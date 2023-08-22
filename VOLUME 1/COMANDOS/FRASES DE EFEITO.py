@@ -1,9 +1,15 @@
+#=================== [ A ] ALMA DO BOT: ==============================
 import telebot
 TOKEN = "TOKEN AQUI"
 bot = telebot.TeleBot(TOKEN)
 def verificar(mensagem):
     return True
+# bot.send_message > "print"
+# bot.reply_to > "input"
+# @bot.message_handler > "if" / "else" do "def"
 
+#=================== [ B ] COMANDOS DO BOT: ============================
+#--------------------[ 2 ] OPÇÕES DO MENU: -----------------------------
 @bot.message_handler(commands=["amor"])
 def amor(mensagem):
     bot.send_message(mensagem.chat.id,"😍️O DINHEIRO NÃO COMPRA AMOR!")
@@ -20,6 +26,7 @@ def tristeza(mensagem):
 def alegria(mensagem):
     bot.send_message(mensagem.chat.id,"😀️O QUE MAIS ME ALEGRA NA ESPÉCIE HUMANA É A HUMILDADE!")
 
+#--------------------[ 1 ] MENU INICIAL: -------------------------------
 @bot.message_handler(func=verificar, commands=["start", "menu", "help"])
 def responder(mensagem):
     texto = '''
@@ -33,4 +40,5 @@ def responder(mensagem):
 💚RESPONDER QUALQUER MENSAGEM NÃO IRÁ FUNCIONAR!!'''
     bot.reply_to(mensagem,texto)
 
+#=================== [ C ] START DO BOT: ============================
 bot.polling()

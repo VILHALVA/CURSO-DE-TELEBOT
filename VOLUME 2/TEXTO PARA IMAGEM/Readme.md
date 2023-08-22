@@ -8,9 +8,9 @@ Este código utiliza a API do Bing para encontrar uma imagem correspondente à d
 
 ## JAVASCRIPT
 Para criar um bot do Telegram em JavaScript capaz de descrever uma imagem em texto e enviar uma foto baseada em IA, precisamos seguir alguns passos:
-* 1) Criar um bot no BotFather e obter o token de acesso.
-* 2) Instalar as dependências necessárias, como o telegraf, clarifai e request.
-* 3) Configurar o Clarifai para obter a API key.
-* 4) Configurar o bot para receber uma imagem e enviar uma mensagem de texto com a descrição da imagem e uma foto baseada em IA.
+* 1- Criar um bot no BotFather e obter o token de acesso.
+* 2- Instalar as dependências necessárias, como o telegraf, clarifai e request.
+* 3- Configurar o Clarifai para obter a API key.
+* 4- Configurar o bot para receber uma imagem e enviar uma mensagem de texto com a descrição da imagem e uma foto baseada em IA.
 
 Observação: para obter a API key do Clarifai, você precisa criar uma conta gratuita no site do Clarifai e criar um novo aplicativo. A API key estará disponível na página de configurações do aplicativo.
