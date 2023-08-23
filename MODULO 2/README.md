@@ -2,7 +2,7 @@
 
 [![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA) <br>
 [![GitHub Repo stars](https://img.shields.io/badge/CURSO%20DE-PYTHON-03A9F4?logo=github)](https://github.com/VILHALVA/CURSO-DE-PYTHON)
-[![GitHub Repo stars](https://img.shields.io/badge/CURSO%20DE-JAVASCRIPT-03A9F4?logo=github)](https://github.com/VILHALVA/CURSO-DE-PYTHON)
+[![GitHub Repo stars](https://img.shields.io/badge/CURSO%20DE-JAVASCRIPT-03A9F4?logo=github)](https://github.com/VILHALVA/CURSO-DE-JAVASCRIPT)
 
 <img src="https://psverso.com.br/wp-content/uploads/2021/08/musibeth-bot-discord.png" width="280"> <br>
 
