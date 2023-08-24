@@ -1,4 +1,4 @@
-# COMANDOS
+# COMANDOS VIA BARRA (/)
 ## CADA BOT TEM SEUS COMANDOS (EX.ASTRONOMIA)
 Este é um exemplo de código em Python que demonstra como criar um bot do Telegram que fornece informações sobre diferentes planetas do Sistema Solar. O bot responde aos comandos `/sol`, `/mercurio`, `/venus`, `/terra`, `/marte`, `/jupiter`, `/saturno`, `/urano` e `/netuno` com informações sobre cada planeta.
 

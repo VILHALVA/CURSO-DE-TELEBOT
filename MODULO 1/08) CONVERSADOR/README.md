@@ -1,15 +1,14 @@
-# Telegram Bot - Assistente de Conversa
+# BOT DE CONVERSA
 ## ROBO ED
-Este é um projeto de um bot do Telegram que funciona como um assistente de conversa, capaz de fornecer informações sobre linguagens de programação, compartilhar mensagens de emoção e interagir com o usuário sobre diversos tópicos. O bot é criado usando a linguagem Python e a biblioteca `requests` para interagir com a API do Telegram.
+No código acima, criamos uma função reply_to_message que responde a cada mensagem enviada pelo usuário com uma resposta gerada pela função generate_response. A função generate_response verifica a mensagem do usuário e retorna uma resposta apropriada.
 
-### Funcionalidades
-1. **Informações sobre Linguagens de Programação:** O bot fornece informações sobre várias linguagens de programação, incluindo Python, JavaScript, PHP, Java, Ruby, C++, C# e outras.
+Em seguida, configuramos o logger e criamos o objeto Updater e dispatcher. Adicionamos dois handlers ao dispatcher: um CommandHandler que responde a /start com uma mensagem de boas-vindas, e um MessageHandler que responde a todas as outras mensagens.
 
-2. **Mensagens de Emoção:** O bot é capaz de compartilhar mensagens relacionadas a diferentes emoções, como amor, raiva, tristeza e alegria.
+Por fim, iniciamos o bot usando o método start_polling(). Certifique-se de substituir 'SEU_TOKEN_DO_BOT' pelo token do seu bot do Telegram.
 
-3. **Conversas sobre Tópicos Específicos:** O bot pode conversar com o usuário sobre tópicos como tecnologia, ciência, filosofia e teologia, oferecendo informações e respostas relevantes.
+AVISO: Não é possível se conectar diretamente com o Robô ED da Petrobras, pois niguém tem acesso às suas APIs ou plataformas de comunicação, como modelo de linguagem. Robôs não podem interagir diretamente com outros robôs ou serviços sem a devida integração e autorização. Sem acesso às APIs e recursos da Petrobras, não seria possível reproduzir exatamente o comportamento do Robô ED em sua plataforma.
 
-## SAUDAÇÃO (MELHORE O CÓDIGO)
+## SAUDAÇÃO 1 (MELHORE O CÓDIGO)
 1. **Tratamento de Mensagens:**
    No seu código, você tem dois manipuladores de mensagens, um usando a função `sample_responses` e outro usando a função `handle_message`. Parece haver um pouco de redundância aqui. Geralmente, você só precisa de um manipulador de mensagens para responder aos comandos e mensagens do usuário. No seu caso, o `sample_responses` é o que você está usando para responder a mensagens. Portanto, você pode remover o trecho relacionado a `handle_message` e usar apenas o `sample_responses`.
 
@@ -35,6 +34,37 @@ Este é um projeto de um bot do Telegram que funciona como um assistente de conv
 
 Lembre-se de testar seu bot cuidadosamente para garantir que todas as funcionalidades estejam funcionando conforme o esperado. Se você precisar de mais assistência ou tiver outras dúvidas, fique à vontade para perguntar!
 
+# SAUDAÇÃO 2
+Este é um exemplo de um bot do Telegram simples que utiliza a biblioteca `telebot` para se comunicar com a API do Telegram. O bot é capaz de receber mensagens do usuário e responder a elas.
+
+## Pré-requisitos
+Certifique-se de ter a biblioteca `pyTelegramBotAPI` instalada. Você pode instalá-la usando o seguinte comando:
+
+```
+pip install pyTelegramBotAPI
+```
+
+## Como Usar
+1. Clone este repositório ou baixe o código-fonte.
+
+2. Substitua `"SEU_TOKEN_AQUI"` pelo token do seu bot na variável `TOKEN`.
+
+3. Execute o script Python:
+
+```
+python nome_do_arquivo.py
+```
+
+4. O bot agora está em execução e pronto para receber mensagens.
+
+## Funcionalidades
+- O bot responde à mensagem "/start" com uma saudação.
+
+- O bot é capaz de responder a algumas mensagens predefinidas com respostas simples.
+
+- Se o usuário enviar "time", "horas", "dia" ou "data", o bot responderá com a data e hora atuais.
+
+
 ## Como Executar o Bot?
 1. Certifique-se de ter o Python instalado em sua máquina.
 
@@ -47,7 +77,7 @@ Lembre-se de testar seu bot cuidadosamente para garantir que todas as funcionali
 3. Clone este repositório:
 
    ```bash
-   git clone https://github.com/VILHALVA/CURSO-TELEGRAM-BOT/VOLUME%201/CONVERSA
+   git clone https://github.com/VILHALVA/CURSO-TELEGRAM-BOT/VOLUME%201/08) CONVERSA
    ```
 
 4. Acesse o diretório do projeto:
@@ -74,4 +104,6 @@ Lembre-se de testar seu bot cuidadosamente para garantir que todas as funcionali
 2. Digite comandos como `/start`, `/amor`, `/tecnologia`, `/filosofia`, etc., para interagir com o bot e receber respostas relevantes.
 
 3. O bot também é capaz de responder a mensagens normais, desde que sejam configuradas respostas para essas mensagens na função `gerar_respostas` do arquivo `bot.py`.
+
+
 

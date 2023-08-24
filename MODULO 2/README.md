@@ -1,4 +1,4 @@
-# MODULO 2: PROCESSAMENTO DE MÍDIAS
+# MODULO 2: MULTIMIDIAS E IA
 
 [![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA) <br>
 [![GitHub Repo stars](https://img.shields.io/badge/CURSO%20DE-PYTHON-03A9F4?logo=github)](https://github.com/VILHALVA/CURSO-DE-PYTHON)

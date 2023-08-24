@@ -25,8 +25,14 @@
 
 ## 4️⃣Instale algumas ferramentas:
 * [🔰VISUAL STUDIO CODE](https://code.visualstudio.com/)
-* [🔰PYTHON](https://www.python.org/downloads/release/python-3110/)
-* [🔰PYTELEGRAMBOT](https://pypi.org/project/pyTelegramBotAPI/#files)
+
+* 🔰UMA LINGUAGEM DE PROGRAMAÇÃO (COPILADOR), COMO:
+* [PYTHON](https://www.python.org/downloads/release/python-3110/)
+* [JAVASCRIPT (NODEJS)](https://nodejs.org/en/download)
+
+* 🔰FRAMEWORK, COMO:
+* [PY TELEGRAM BOT - PARA BOT EM PYTHON](https://pypi.org/project/pyTelegramBotAPI/#files)
+* [NODE TELEGRAM BOT API - PARA BOT EM JAVASCRIPT](https://www.npmjs.com/package/node-telegram-bot-api)
 
 ## 5️⃣Você pode baixar e personalizar esse repositório. [Ou usar alguns exemplos prontos do Telegram.](https://core.telegram.org/bots/samples)
 
