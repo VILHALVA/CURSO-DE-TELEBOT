@@ -1,4 +1,4 @@
-# BOT DE CONVERSA
+# CONVERSADOR
 ## ROBO ED
 No código acima, criamos uma função reply_to_message que responde a cada mensagem enviada pelo usuário com uma resposta gerada pela função generate_response. A função generate_response verifica a mensagem do usuário e retorna uma resposta apropriada.
 
@@ -6,7 +6,7 @@ Em seguida, configuramos o logger e criamos o objeto Updater e dispatcher. Adici
 
 Por fim, iniciamos o bot usando o método start_polling(). Certifique-se de substituir 'SEU_TOKEN_DO_BOT' pelo token do seu bot do Telegram.
 
-AVISO: Não é possível se conectar diretamente com o Robô ED da Petrobras, pois niguém tem acesso às suas APIs ou plataformas de comunicação, como modelo de linguagem. Robôs não podem interagir diretamente com outros robôs ou serviços sem a devida integração e autorização. Sem acesso às APIs e recursos da Petrobras, não seria possível reproduzir exatamente o comportamento do Robô ED em sua plataforma.
+AVISO: Não é possível se conectar diretamente com o Robô ED da Petrobras, pois niguém tem acesso às suas APIs ou plataformas de comunicação, como modelo de linguagem. Robôs não podem interagir diretamente com outros robôs ou serviços sem a devida integração e autorização. Sem acesso às APIs e recursos, não seria possível reproduzir exatamente o comportamento do Robô ED em sua plataforma.
 
 ## SAUDAÇÃO 1 (MELHORE O CÓDIGO)
 1. **Tratamento de Mensagens:**
@@ -34,30 +34,10 @@ AVISO: Não é possível se conectar diretamente com o Robô ED da Petrobras, po
 
 Lembre-se de testar seu bot cuidadosamente para garantir que todas as funcionalidades estejam funcionando conforme o esperado. Se você precisar de mais assistência ou tiver outras dúvidas, fique à vontade para perguntar!
 
-# SAUDAÇÃO 2
-Este é um exemplo de um bot do Telegram simples que utiliza a biblioteca `telebot` para se comunicar com a API do Telegram. O bot é capaz de receber mensagens do usuário e responder a elas.
+## SAUDAÇÃO 2
+O bot é capaz de receber mensagens do usuário e responder a elas.
 
-## Pré-requisitos
-Certifique-se de ter a biblioteca `pyTelegramBotAPI` instalada. Você pode instalá-la usando o seguinte comando:
-
-```
-pip install pyTelegramBotAPI
-```
-
-## Como Usar
-1. Clone este repositório ou baixe o código-fonte.
-
-2. Substitua `"SEU_TOKEN_AQUI"` pelo token do seu bot na variável `TOKEN`.
-
-3. Execute o script Python:
-
-```
-python nome_do_arquivo.py
-```
-
-4. O bot agora está em execução e pronto para receber mensagens.
-
-## Funcionalidades
+### FUNCIONALIDADES:
 - O bot responde à mensagem "/start" com uma saudação.
 
 - O bot é capaz de responder a algumas mensagens predefinidas com respostas simples.
@@ -65,45 +45,6 @@ python nome_do_arquivo.py
 - Se o usuário enviar "time", "horas", "dia" ou "data", o bot responderá com a data e hora atuais.
 
 
-## Como Executar o Bot?
-1. Certifique-se de ter o Python instalado em sua máquina.
-
-2. Instale a biblioteca `requests` usando o seguinte comando:
-   
-   ```bash
-   pip install requests
-   ```
-
-3. Clone este repositório:
-
-   ```bash
-   git clone https://github.com/VILHALVA/CURSO-TELEGRAM-BOT/VOLUME%201/08) CONVERSA
-   ```
-
-4. Acesse o diretório do projeto:
-
-   ```bash
-   cd telegram-bot-assistente
-   ```
-
-5. Abra o arquivo `bot.py` em um editor de texto ou ambiente de desenvolvimento.
-
-6. Substitua `"TOKEN AQUI"` pelo seu token de bot real, que você obteve ao criar o bot no BotFather no Telegram.
-
-7. Execute o bot:
-
-   ```bash
-   python bot.py
-   ```
-
-   O bot ficará ativo e pronto para receber mensagens.
-
-## Uso do Bot
-1. Inicie uma conversa com o bot no Telegram.
-
-2. Digite comandos como `/start`, `/amor`, `/tecnologia`, `/filosofia`, etc., para interagir com o bot e receber respostas relevantes.
-
-3. O bot também é capaz de responder a mensagens normais, desde que sejam configuradas respostas para essas mensagens na função `gerar_respostas` do arquivo `bot.py`.
 
 
 

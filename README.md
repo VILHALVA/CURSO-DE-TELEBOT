@@ -1,4 +1,4 @@
-# TELEGRAM-BOT
+# CURSO DE TELEGRAM-BOT
 👨‍⚖️APRENDA A CRIAR SEU PRÓPRIO BOT DO TELEGRAM.
 
 [![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA)
@@ -10,7 +10,6 @@
 <img src="https://static-s.aa-cdn.net/img/gp/20600007932516/4PlwdrLxkk6RpE8Yl6i-4Ck0zX_5N0arxlcF0lffWGMK2tGxiN0NrASnyq6mztGgeD-a?v=1" align="center" width="280"> <br>
 
 # 💫RESUMO:
-
 ## 1️⃣Entre no privado com [@botfather](https://t.me/botfather) e configure o avatar do seu bot:
 * 🔹newbot - Novo Bot.
 * 🔹edit Name - Dê o Nome.
@@ -23,20 +22,13 @@
 
 ## 3️⃣Você precisa estudar o funcionamento da API de bots do Telegram. [Clique para acessar.](https://core.telegram.org/bots/api)
 
-## 4️⃣Instale algumas ferramentas:
-* [🔰VISUAL STUDIO CODE](https://code.visualstudio.com/)
-
-* 🔰UMA LINGUAGEM DE PROGRAMAÇÃO (COPILADOR), COMO:
-* [PYTHON](https://www.python.org/downloads/release/python-3110/)
-* [JAVASCRIPT (NODEJS)](https://nodejs.org/en/download)
-
-* 🔰FRAMEWORK, COMO:
-* [PY TELEGRAM BOT - PARA BOT EM PYTHON](https://pypi.org/project/pyTelegramBotAPI/#files)
-* [NODE TELEGRAM BOT API - PARA BOT EM JAVASCRIPT](https://www.npmjs.com/package/node-telegram-bot-api)
+## 4️⃣Siga os Módulos e Instale as Depedências:
+* 🔰Não pule etapas: Antes de criar grandes bots, comece do básico. Cada Módulo representa um nivel de comprexidade.
+* 🔰Cada Módulo e Diretório possui um README com instruções detalhadas do que você deve instalar (Importar as dependências).
 
 ## 5️⃣Você pode baixar e personalizar esse repositório. [Ou usar alguns exemplos prontos do Telegram.](https://core.telegram.org/bots/samples)
 
-## 6️⃣Ao copiar o código, as únicas coisas que você irá precisar colocar é:
+## 6️⃣Ao copiar o código, as únicas coisas gerais que você irá precisar colocar é:
 * 🔰TOKEN DO BOT
 * 🔰ID DO CHAT
 

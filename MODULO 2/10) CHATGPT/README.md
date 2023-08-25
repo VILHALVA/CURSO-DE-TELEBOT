@@ -1,8 +1,8 @@
 # CHATGPT
-## JAVASCRIPT
-Para criar um bot do Telegram em JavaScript que converse com o usuário como o chatGPT, é necessário utilizar uma API de processamento de linguagem natural (NLP) para gerar as respostas. Neste exemplo, utilizaremos a API do Dialogflow da Google.
+## DESCRIÇÃO:
+Para criar um bot que converse com o usuário como o chatGPT, é necessário utilizar uma API de processamento de linguagem natural (NLP) para gerar as respostas. Neste exemplo, utilizaremos a API do Dialogflow da Google.
 
-### Passo a passo:
+## JAVASCRIPT:
 * 1- Crie uma conta no Dialogflow e crie um novo agente.
 * 2- Treine o agente com exemplos de diálogos que você gostaria que o bot pudesse responder.
 * 3- Na seção "Integrações" do agente, ative o Telegram e siga as instruções para conectar o bot com o Telegram.
@@ -18,7 +18,7 @@ Certifique-se de atualizar as variáveis TELEGRAM_TOKEN e DIALOGFLOW_PROJECT_ID 
 Por fim, execute o bot com o comando node index.js e converse com ele no Telegram! Ele deverá ser capaz de responder às suas mensagens de acordo com o treinamento que você realizou no Dialogflow.
 
 ## PYTHON:
-Um bot em Python que se conecta com o modelo de linguagem GPT da OpenAI para conversar com os usuários no Telegram. Para isso, vou utilizar a biblioteca python-telegram-bot e a API do modelo de linguagem GPT-3.
+Para isso, vou utilizar a biblioteca python-telegram-bot e a API do modelo de linguagem GPT-3.
 
 Antes de começar, é necessário ter uma conta na OpenAI e gerar uma chave de API para usar o modelo de linguagem GPT-3. Com isso, podemos começar a criar o nosso bot.
 

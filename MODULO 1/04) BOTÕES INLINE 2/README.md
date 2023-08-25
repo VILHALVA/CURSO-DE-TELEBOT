@@ -1,7 +1,9 @@
 # BOTÕES INLINE 2
-Para criar um bot do Telegram em Python que envia uma mensagem quando um usuário clica em um botão inline, podemos utilizar a biblioteca python-telegram-bot.
+## DESCRIÇÃO:
+Esse é um bot que envia uma mensagem quando um usuário clica em um botão inline.
 
-Antes de começar, é necessário criar um bot e obter o seu token de acesso. Em seguida, vamos utilizar a classe InlineKeyboardButton para criar um botão inline e a classe InlineKeyboardMarkup para colocar esse botão em uma mensagem. Quando o usuário clicar no botão, o Telegram enviará uma consulta para o nosso bot, que deve responder com a mensagem desejada.
+## FUNCIONAMENTO:
+Vamos utilizar a classe InlineKeyboardButton para criar um botão inline e a classe InlineKeyboardMarkup para colocar esse botão em uma mensagem. Quando o usuário clicar no botão, o Telegram enviará uma consulta para o nosso bot, que deve responder com a mensagem desejada.
 
 No código acima, a função send_inline_button cria um botão inline com o texto "Clique aqui" e o callback data "button_clicked". Em seguida, essa função envia uma mensagem para o usuário com o botão inline usando a função update.message.reply_text.
 
