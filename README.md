@@ -33,6 +33,10 @@
 
 ## ✅Pronto: É só executar o código na sua IDE ou no servidor remoto.
 
+# 🦾VIDEOS DO YOUTUBE:
+* [CLIQUE AQUI PARA ASSISTIR A DISPUTA ENTRE PYBOT E O MYBOT](https://youtu.be/0dmGZElNdA0?si=_PaeFYe0eBflaKlz)
+* [CLIQUE AQUI PARA ASSISTIR A EXECUÇÃO DO BOT DE MIDIAS LOCAIS](https://youtu.be/OP_zR6lficE?si=W9LhQRW0KUUPCgaG)
+
 ![](https://i.imgur.com/waxVImv.png)
 # 💥SE APROFUNDANDO MAIS:
 
