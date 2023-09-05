@@ -5,9 +5,10 @@
 
 <img src="https://www.wlsdevelop.com/wp-content/uploads/2020/05/technology.png" width="280"> <br>
 
-## DESCRIÇÃO:
-* **1. Telepot:** Aqui iremos explorar a criação de bots do Telegram apenas em Python, utilizando a biblioteca Telepot. 
-* **2. Os bots tem comandos básicos:** Comandos via barra, botões de Teclado, botões Inline, Mensageiro, Conversador, Secretário e Processador de String e Números.
+## DESCRIÇÃO: 
+* **1. COMANDOS BASICOS:** Comandos via barra, botões de Teclado, botões Inline, Mensageiro, Conversador, Secretário e Processador de String e Números.
+* **2. BOTS DE CALCULOS:** Bots que fazem calculos comuns de Aritmética.
+* **3. BOTS DE JOGOS:** Pra não ficar chato criei alguns bots de jogos interativos simples.
 
 ## CARACTERISTICAS:
 Ambos os bots compartilham as seguintes características:
@@ -17,6 +18,7 @@ Ambos os bots compartilham as seguintes características:
 - Abordam diferentes funcionalidades, como fornecer informações sobre linguagens de programação, responder a emoções e fornecer informações sobre a hora atual.
 
 ## REQUESITOS:
+* [SABER PROGRAMAR EM PYTHON](https://github.com/VILHALVA/CURSO-DE-PYTHON)
 * [INSTALAR O PYTHON](https://www.python.org/downloads/release/python-3110/)
 * [INSTALAR O PY TELEGRAM BOT](https://pypi.org/project/pyTelegramBotAPI/#files)
 
@@ -28,7 +30,4 @@ Ambos os bots compartilham as seguintes características:
 3. Execute os scripts Python para iniciar os bots.
 
 4. Interaja com os bots enviando comandos específicos para receber respostas relevantes.
-
-## CONTRIBUIÇÃO:
-Esses exemplos são destinados a ser uma introdução simples à criação de bots do Telegram usando Python e a biblioteca Telepot. Sinta-se à vontade para expandir esses exemplos, adicionar novas funcionalidades ou personalizá-los de acordo com suas necessidades.
 
