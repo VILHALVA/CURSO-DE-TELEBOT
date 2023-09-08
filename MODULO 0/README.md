@@ -1,25 +1,40 @@
-# MODULO 1: PRIMEIROS COMANDOS
+# MODULO 0: CRIANDO BOTS DO ZERO
+👨‍⚖️CURSO BÁSICO DE CRIAÇÃO DE BOTS.
 
-[![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA)
+[![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA) 
 [![GitHub Repo stars](https://img.shields.io/badge/NOSSOS-CURSOS-03A9F4?logo=github)](https://github.com/VILHALVA?tab=repositories&q=CURSO&type=public&language=&sort=) <br>
 
-<img src="https://www.wlsdevelop.com/wp-content/uploads/2020/05/technology.png" width="280"> <br>
+[![GitHub Repo stars](https://img.shields.io/badge/CURSO%20DE-BOTS-03A9F4?logo=youtube)](https://www.youtube.com/playlist?list=PLheIVUbpfWZ2wDRHulCcuIVF-9lkIvyBi)
+[![GitHub Repo stars](https://img.shields.io/badge/VEJA%20A-DOCUMENTAÇÃO-03A9F4?logo=youtube)](https://github.com/eternnoir/pyTelegramBotAPI) <br>
 
-## DESCRIÇÃO: 
-* **1. COMANDOS BASICOS:** Comandos via barra, botões de Teclado, botões Inline, Mensageiro, Conversador, Secretário e Processador de String e Números.
-* **2. BOTS DE CALCULOS:** Bots que fazem calculos comuns de Aritmética.
-* **3. BOTS DE JOGOS:** Pra não ficar chato criei alguns bots de jogos interativos simples.
-
-## CARACTERISTICAS:
-Ambos os bots compartilham as seguintes características:
-- Desenvolvidos em Python.
-- Utilizam a biblioteca Telepot para interagir com a API do Telegram.
-- São bots de comandos básicos, respondendo a comandos predefinidos.
-- Abordam diferentes funcionalidades, como fornecer informações sobre linguagens de programação, responder a emoções e fornecer informações sobre a hora atual.
+<img src="https://static-s.aa-cdn.net/img/gp/20600015011937/Awi79vd4pDQb-YvVtdgiyecFOuZBezvRScyq5mkBbfkJSG5TlwH9BYq-EuPGKfPmm-8?v=1" align="center" width="280"> <br>
 
 ## REQUESITOS:
 * [INSTALAR O PYTHON](https://www.python.org/downloads/release/python-3110/)
 * [INSTALAR O PY TELEGRAM BOT](https://pypi.org/project/pyTelegramBotAPI/#files)
+
+## AVISO IMPORTANTE:
+Esse curso se trata de uma [playlist do Youtube](https://www.youtube.com/playlist?list=PLheIVUbpfWZ2wDRHulCcuIVF-9lkIvyBi). Por isso devo salientar algumas coisas:
+* ✅A ordem dos Diretórios está diferente dos demais módulos. Onde cada aula é uma pasta, e cada pasta (aula) tem muitos bots diferentes e indepedentes.
+* ✅Em alguns diretórios tem o arquivo `TOKEN.py` você precisa colocar o TOKEN do seu bot. Todos os bots da pasta irão usar esse mesmo TOKEN. Por isso todos os códigos de alguns diretórios tem o comando: 
+```python
+from TOKEN import *
+```
+
+## [CONTEÚDO DO CURSO:](https://www.youtube.com/playlist?list=PLheIVUbpfWZ2wDRHulCcuIVF-9lkIvyBi)
+* ✅ BOTÕES DE RESPOSTA
+* ✅ BOTÕES INLINE
+* ✅ POLLING VS WEBHOOK
+* ✅ BARRA DE PROGRESSO
+* ✅ MODO LENTO
+* ✅ CONTROLE DE GRUPOS
+* ✅ CAPTURAR TELA
+* ✅ REINICIAR BOT
+* ✅ EXECUTAR COMANDOS DO SISTEMA
+* ✅ GUARDANDO BACKTUP
+* ✅ FOTO COM TEXTO
+* ✅ CHATGPT COM HTML
+* ✅ BOT COMPARADOR DE PREÇOS
 
 ## BOTS NA LINGUAGEM PYTHON:
 ### INSTALAÇÃO DO PYTHON:
@@ -43,13 +58,3 @@ Isso instalará a biblioteca `pyTelegramBotAPI` no seu ambiente Python.
 Agora, você pode começar a criar seu bot em Python e usar a biblioteca `pyTelegramBotAPI` para interagir com a API do Telegram. Certifique-se de obter um token de acesso do BotFather do Telegram antes de criar seu bot e substitua `"SEU_TOKEN_AQUI"` pelo token real do seu bot no código Python.
 
 Com a biblioteca `pyTelegramBotAPI` instalada e o Python configurado, você está pronto para criar e executar seu bot no Telegram.
-
-## COMO UTILIZAR OS BOTS?
-1. Clone ou baixe os códigos-fonte dos exemplos.
-
-2. Substitua os tokens dos bots pelos seus próprios tokens da API do Telegram.
-
-3. Execute os scripts Python para iniciar os bots.
-
-4. Interaja com os bots enviando comandos específicos para receber respostas relevantes.
-
