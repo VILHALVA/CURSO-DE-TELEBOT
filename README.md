@@ -2,8 +2,9 @@
 👨‍⚖️APRENDA A CRIAR SEU PRÓPRIO BOT DO TELEGRAM.
 
 [![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA)
-[![GitHub Repo stars](https://img.shields.io/badge/VEJA-DOCUMENTAÇÃO-03A9F4?logo=google)](https://core.telegram.org/bots/api) <br>
-[![GitHub Repo stars](https://img.shields.io/badge/CURSO%20COM-VYCKTORSTARK-03A9F4?logo=google)](https://vycktorstark.github.io/CriandoBot/)
+[![GitHub Repo stars](https://img.shields.io/badge/VEJA%20OS-VIDEOS-03A9F4?logo=youtube)](https://www.youtube.com/@vilhalva100/search?query=Telegram) 
+
+[![GitHub Repo stars](https://img.shields.io/badge/VEJA-DOCUMENTAÇÃO-03A9F4?logo=google)](https://core.telegram.org/bots/api)
 <br>
 
 <img src="https://static-s.aa-cdn.net/img/gp/20600007932516/4PlwdrLxkk6RpE8Yl6i-4Ck0zX_5N0arxlcF0lffWGMK2tGxiN0NrASnyq6mztGgeD-a?v=1" align="center" width="280"> <br>
