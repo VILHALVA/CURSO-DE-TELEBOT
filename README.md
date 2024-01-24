@@ -2,13 +2,9 @@
 👨‍⚖️TELEBOT É UM FRAMEWORK DE DESENVOLVIMENTO DE BOTS PARA O APLICATIVO DE MENSAGENS TELEGRAM. ELE FORNECE UMA INTERFACE FÁCIL DE USAR PARA CRIAR E GERENCIAR BOTS, PERMITINDO QUE OS DESENVOLVEDORES CRIEM BOTS PERSONALIZADOS COM RECURSOS COMO RESPONDER A MENSAGENS, ENVIAR MENSAGENS, RECEBER ATUALIZAÇÕES DO TELEGRAM E MUITO MAIS. É UMA FERRAMENTA POPULAR ENTRE OS DESENVOLVEDORES PARA CRIAR BOTS NO TELEGRAM.
 
 [![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA)
-[![GitHub Repo stars](https://img.shields.io/badge/VEJA%20OS-VIDEOS-03A9F4?logo=youtube)](https://www.youtube.com/@vilhalva100/search?query=Telegram) 
-
 [![GitHub Repo stars](https://img.shields.io/badge/VEJA-DOCUMENTAÇÃO-03A9F4?logo=google)](https://core.telegram.org/bots/api)
 [![GitHub Repo stars](https://img.shields.io/badge/LINGUAGEM%20DE-PROGRAMAÇÃO-03A9F4?logo=github)](https://github.com/VILHALVA/CURSO-DE-PYTHON)
 <br>
-
-<img src="https://static-s.aa-cdn.net/img/gp/20600007932516/4PlwdrLxkk6RpE8Yl6i-4Ck0zX_5N0arxlcF0lffWGMK2tGxiN0NrASnyq6mztGgeD-a?v=1" align="center" width="280"> <br>
 
 # 💫RESUMO:
 ## 1️⃣Entre no privado com [@botfather](https://t.me/botfather) e configure o avatar do seu bot:
