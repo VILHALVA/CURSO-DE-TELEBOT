@@ -314,11 +314,9 @@ Aqui não tentaremos lhe ensinar como programar em PHP. Apenas lhe daremos uma b
 # 9. Ainda tem dúvidas?
 * Está em dúvida em qual VPS escolher? Dê uma olhada aqui.
 
-* Qualquer dúvida que tiver, pode perguntar lá no [Grupo de CODIGOS](https://t.me/CODIGOGP). É um grupo feito por vários desenvolvedores de bots, de aplicativos e web. Na maioria dos casos haverá alguém para te ajudar. Sinta-se livre para fazer qualquer pergunta relacionada a bots no Telegram por lá.
-
-* Não se esqueça de fazer o nosso curso. [CLIQUE PARA ACESSAR OS VIDEOS.](https://youtube.com/playlist?list=PLJE6tO9EBOQHB-w1ZeATvuQVrOlg05-sq)
-
-# 10. Créditos finais:
+* Qualquer dúvida que tiver, pode perguntar lá no [Grupo de SABER](https://t.me/GRUPOCN/3013). É um grupo feito por vários desenvolvedores de bots, de aplicativos e web. Na maioria dos casos haverá alguém para te ajudar. Sinta-se livre para fazer qualquer pergunta relacionada a bots no Telegram por lá.
+  
+# 10. CRÉDITOS:
 * [Artigo escrito em ingês por @d_Rickyy_b.](https://telegra.ph/Introduction-to-bot-programming-02-21)
 * [Artigo escrito em Português por Desenvovedores de bots.](https://telegra.ph/Introdu%C3%A7%C3%A3o-a-programa%C3%A7%C3%A3o-de-bots-no-Telegram-12-16)
 * [Documentação feita com apoio dos ADMs do Grupo de Códigos.](https://t.me/CODIGOGP)
