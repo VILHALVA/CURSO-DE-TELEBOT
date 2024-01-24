@@ -15,7 +15,7 @@
 * 🔹`/editBotpic` - Coloque a foto.
 * 🔰SALVE O TOKEN DO SEU BOT.
 
-## 2️⃣Você precisa saber alguma linguagem de programação. Se não souber, [clique aqui para fazer de Python.](https://github.com/VILHALVA/CURSO-DE-PYTHON)
+## 2️⃣Você precisa saber alguma linguagem de programação. Se não souber, [clique aqui para fazer o curso de Python.](https://github.com/VILHALVA/CURSO-DE-PYTHON)
 
 ## 3️⃣Você precisa estudar o funcionamento da API de bots do Telegram. [Clique para acessar.](https://core.telegram.org/bots/api)
 
