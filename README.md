@@ -8,14 +8,14 @@
 
 # 💫RESUMO:
 ## 1️⃣Entre no privado com [@botfather](https://t.me/botfather) e configure o avatar do seu bot:
-* 🔹newbot - Novo Bot.
-* 🔹edit Name - Dê o Nome.
-* 🔹edit About - Coloque a Bios.
-* 🔹edit Description - Coloque a Descrição.
-* 🔹edit Botpic - Coloque a foto.
+* 🔹`/newbot` - Novo Bot.
+* 🔹`/editName` - Dê o Nome.
+* 🔹`/editAbout` - Coloque a Bios.
+* 🔹`/editDescription` - Coloque a Descrição.
+* 🔹`/editBotpic` - Coloque a foto.
 * 🔰SALVE O TOKEN DO SEU BOT.
 
-## 2️⃣Você precisa saber alguma linguagem de programação. Se não souber, [clique aqui para fazer um de nossos cursos.](https://github.com/VILHALVA?tab=repositories&q=CURSO&type=public&language=&sort=)
+## 2️⃣Você precisa saber alguma linguagem de programação. Se não souber, [clique aqui para fazer de Python.](https://github.com/VILHALVA/CURSO-DE-PYTHON)
 
 ## 3️⃣Você precisa estudar o funcionamento da API de bots do Telegram. [Clique para acessar.](https://core.telegram.org/bots/api)
 
@@ -40,8 +40,8 @@
 * [A EXECUÇÃO DO BOT DE MIDIAS LOCAIS](https://youtu.be/OP_zR6lficE?si=W9LhQRW0KUUPCgaG)
 
 ![](https://i.imgur.com/waxVImv.png)
-# 💥SE APROFUNDANDO MAIS:
 
+# 💥SE APROFUNDANDO MAIS:
 # 1. Como criar meu próprio Bot?
 Antes de iniciar, a pergunta mais importante é: Você sabe alguma linguagem de programação?
 Para criar um bot no Telegram você necessita criar um pequeno programa que interaja com os servidores do Telegram.
