@@ -28,16 +28,7 @@
 ## 6️⃣Ao copiar o código, as únicas coisas gerais que você irá precisar colocar é:
 * 🔰TOKEN DO BOT
 * 🔰ID DO CHAT
-
-## ✅Pronto: É só executar o código na sua IDE ou no servidor remoto.
-
-# 📹VIDEOS DO YOUTUBE:
-* [COPIANDO E EXECUTANDO BOT DO NOSSO CURSO](https://youtu.be/HlTCv1dC8U8?si=VlNf4nLVlH99bln4)
-* [CRIANDO BOT ENTREVISTADOR](https://youtu.be/B_bz5sOUTG4?si=WZhoFzQOl2UhEHyB)
-* [CRIANDO BOT COM BOTÕES INLINE POP UP](https://youtu.be/l7vfOcC-cFQ?si=Aov1CLnTI4kJmchE)
-* [CRIANDO BOT COM BOTÕES URL](https://youtu.be/kdmlIVWWfS4?si=kDTF1NY3d503PSGz)
-* [A DISPUTA ENTRE PYBOT E O MYBOT](https://youtu.be/0dmGZElNdA0?si=_PaeFYe0eBflaKlz)
-* [A EXECUÇÃO DO BOT DE MIDIAS LOCAIS](https://youtu.be/OP_zR6lficE?si=W9LhQRW0KUUPCgaG)
+* ✅Pronto: É só executar o código na sua IDE ou no servidor remoto.
 
 ![](https://i.imgur.com/waxVImv.png)
 
