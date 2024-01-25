@@ -3,8 +3,6 @@
 [![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA) 
 [![GitHub Repo stars](https://img.shields.io/badge/NOSSOS-CURSOS-03A9F4?logo=github)](https://github.com/VILHALVA?tab=repositories&q=CURSO&type=public&language=&sort=) <br>
 
-<img src="https://psverso.com.br/wp-content/uploads/2021/08/musibeth-bot-discord.png" width="280"> <br>
-
 ## DESCRIÇÃO:
 * **1) MULTIMIDAS:** Diferente do MÓDULO 1, em que os bots só trabalhavam com textos; Agora iremos programar para eles trabalharem com MULTIMIDIAS: Audios, Videos, Fotos, PDF, Links e Enquetes.
 * **2) CHATGPT:** De bônus, adicionamos a possibilidade de você vincular seu bot ao CHATGPT da OpenAI. 
