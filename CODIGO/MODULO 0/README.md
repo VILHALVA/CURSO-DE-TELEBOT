@@ -2,11 +2,8 @@
 👨‍⚖️CURSO BÁSICO DE CRIAÇÃO DE BOTS.
 
 [![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA) 
-[![GitHub Repo stars](https://img.shields.io/badge/NOSSOS-CURSOS-03A9F4?logo=github)](https://github.com/VILHALVA?tab=repositories&q=CURSO&type=public&language=&sort=) <br>
-
+[![GitHub Repo stars](https://img.shields.io/badge/NOSSOS-CURSOS-03A9F4?logo=github)](https://github.com/VILHALVA?tab=repositories&q=CURSO&type=public&language=&sort=) 
 [![GitHub Repo stars](https://img.shields.io/badge/-PLAYLIST%20DO%20YOUTUBE-blueviolet)](https://www.youtube.com/playlist?list=PLheIVUbpfWZ2wDRHulCcuIVF-9lkIvyBi)
-
-<img src="https://static-s.aa-cdn.net/img/gp/20600015011937/Awi79vd4pDQb-YvVtdgiyecFOuZBezvRScyq5mkBbfkJSG5TlwH9BYq-EuPGKfPmm-8?v=1" align="center" width="280"> <br>
 
 ## AVISO IMPORTANTE:
 Esse curso se trata de uma [playlist do Youtube](https://www.youtube.com/playlist?list=PLheIVUbpfWZ2wDRHulCcuIVF-9lkIvyBi). Por isso devo salientar algumas coisas:
