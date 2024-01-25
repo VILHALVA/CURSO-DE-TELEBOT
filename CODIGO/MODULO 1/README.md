@@ -3,8 +3,6 @@
 [![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA)
 [![GitHub Repo stars](https://img.shields.io/badge/NOSSOS-CURSOS-03A9F4?logo=github)](https://github.com/VILHALVA?tab=repositories&q=CURSO&type=public&language=&sort=) <br>
 
-<img src="https://www.wlsdevelop.com/wp-content/uploads/2020/05/technology.png" width="280"> <br>
-
 ## DESCRIÇÃO: 
 * **1. COMANDOS BASICOS:** Comandos via barra, botões de Teclado, botões Inline, Mensageiro, Conversador, Secretário e Processador de String e Números.
 * **2. BOTS DE CALCULOS:** Bots que fazem calculos comuns de Aritmética.
