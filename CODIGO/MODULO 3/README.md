@@ -3,8 +3,6 @@
 [![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA)
 [![GitHub Repo stars](https://img.shields.io/badge/NOSSOS-CURSOS-03A9F4?logo=github)](https://github.com/VILHALVA?tab=repositories&q=CURSO&type=public&language=&sort=) <br>
 
-<img src="https://blogdozouza.files.wordpress.com/2011/12/bd.png" width="280"> <br>
-
 ## DESCRIÇÃO:
 Vamos avancar mais um nivel: Você irá aprender a criar seus bots que utilizam BackEnd (Banco de Dados). Desde:
 * **1) BOTS INLINES:** Você aprederá a criar bots totalmente inlines (Não precisa adicionar em grupos ou entrar no chat privado para usar), até comandos totalmente inlines.
