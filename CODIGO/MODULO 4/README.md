@@ -3,8 +3,6 @@
 [![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA) 
 [![GitHub Repo stars](https://img.shields.io/badge/NOSSOS-CURSOS-03A9F4?logo=github)](https://github.com/VILHALVA?tab=repositories&q=CURSO&type=public&language=&sort=) <br>
 
-<img src="https://www.gruposouzalima.com/wp-content/uploads/2021/11/profissionais-seguranca.png" width="280"> <br>
-
 ## DESCRIÇÃO:
 Você irá aprender a criar seus bots de Moderação dos grupos do Telegram. Desde:
 * **1) COMANDOS BÁSICOS:** Os bots poderão Banir, Kink e Silenciar membros via comandos de Admin.  
