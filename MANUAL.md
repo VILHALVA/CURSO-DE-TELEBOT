@@ -20,3 +20,21 @@ Isso instalará a biblioteca `pyTelegramBotAPI` no seu ambiente Python.
 Agora, você pode começar a criar seu bot em Python e usar a biblioteca `pyTelegramBotAPI` para interagir com a API do Telegram. Certifique-se de obter um token de acesso do BotFather do Telegram antes de criar seu bot e substitua `"SEU_TOKEN_AQUI"` pelo token real do seu bot no código Python.
 
 Com a biblioteca `pyTelegramBotAPI` instalada e o Python configurado, você está pronto para criar e executar seu bot no Telegram.
+
+## CRIANDO O AVATAR DO BOT E EXECUTANDO:
+- 1️⃣Entre no privado com [@botfather](https://t.me/botfather) e configure o avatar do seu bot:
+   - 🔹`/newbot` - Novo Bot.
+   - 🔹`/editname` - Dê o Nome.
+   - 🔹`/editabout` - Coloque a Bios.
+   - 🔹`/editdescription` - Coloque a Descrição.
+   - 🔹`/editbotpic` - Coloque a foto.
+   - 🔰SALVE O TOKEN DO SEU BOT.
+
+- 2️⃣Você precisa saber programar em Python. Se não souber, [clique aqui para fazer o curso de Python.](https://github.com/VILHALVA/CURSO-DE-PYTHON)
+
+- 3️⃣Você pode baixar e personalizar esse repositório. [Ou usar alguns exemplos prontos do Telegram.](https://core.telegram.org/bots/samples)
+
+- 4️⃣Ao copiar o código, as únicas coisas gerais que você irá precisar colocar é:
+   - 🔰TOKEN DO BOT
+   - 🔰ID DO CHAT
+   - ✅Pronto: É só executar o código na sua IDE ou no servidor remoto.
