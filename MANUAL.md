@@ -38,3 +38,40 @@ Com a biblioteca `pyTelegramBotAPI` instalada e o Python configurado, você est�
    - 🔰TOKEN DO BOT
    - 🔰ID DO CHAT
    - ✅Pronto: É só executar o código na sua IDE ou no servidor remoto.
+
+## CRIANDO UM PROJETO:
+### 1. CÓDIGO PYTHON:
+Crie um arquivo Python, por exemplo `meu_bot.py`, e adicione o seguinte código:
+
+```python
+import telebot
+from TOKEN import TOKEN  # Importe seu token do arquivo TOKEN.py
+
+# Inicializa o bot com o token fornecido pelo BotFather
+bot = telebot.TeleBot(TOKEN)
+
+# Manipulador para responder a mensagens de texto
+@bot.message_handler(func=lambda message: True)
+def handle_message(message):
+    bot.reply_to(message, f"Olá {message.from_user.first_name}, você enviou: {message.text}")
+
+# Inicia o bot
+bot.polling()
+```
+
+### 2. ARQUIVO `TOKEN.py`
+Crie um arquivo `TOKEN.py` no mesmo diretório do seu script Python `meu_bot.py` com o conteúdo abaixo:
+
+```python
+TOKEN = 'seu_token_aqui'
+```
+
+Substitua `'seu_token_aqui'` pelo token que você recebeu do BotFather.
+
+### 3. EXECUTE O BOT:
+Execute o script `meu_bot.py`. Ele irá iniciar o bot e fazer com que ele fique escutando mensagens enviadas para ele. Quando um usuário enviar uma mensagem, o bot responderá com uma saudação personalizada junto com a mensagem recebida.
+
+### FUNCIONALIDADES:
+- **Resposta Automática:** O bot responde a qualquer mensagem de texto enviada a ele com uma saudação personalizada.
+- **Configuração Simples:** Utiliza o `pyTelegramBotAPI` para interagir com a API do Telegram de maneira fácil e eficiente.
+- **Personalização:** Você pode personalizar as respostas, adicionar mais manipuladores para diferentes tipos de mensagens, e explorar outras funcionalidades oferecidas pelo `pyTelegramBotAPI`.
