@@ -1,7 +1,7 @@
 # CURSO DE TELEBOT
 👨‍⚖️TELEBOT É UM FRAMEWORK DE DESENVOLVIMENTO DE BOTS PARA O APLICATIVO DE MENSAGENS TELEGRAM. ELE FORNECE UMA INTERFACE FÁCIL DE USAR PARA CRIAR E GERENCIAR BOTS, PERMITINDO QUE OS DESENVOLVEDORES CRIEM BOTS PERSONALIZADOS COM RECURSOS COMO RESPONDER A MENSAGENS, ENVIAR MENSAGENS, RECEBER ATUALIZAÇÕES DO TELEGRAM E MUITO MAIS. É UMA FERRAMENTA POPULAR ENTRE OS DESENVOLVEDORES PARA CRIAR BOTS NO TELEGRAM.
 
-<img src="FOTO.jpg" align="center" width="400"> <br>
+<img src="FOTO.png" align="center" width="400"> <br>
 
 ## CONCEITO:
 Telebot é um termo que pode se referir a um bot (robô) desenvolvido para operar na plataforma de mensagens Telegram. Os bots Telegram são aplicativos de software que interagem com os usuários por meio de mensagens, fornecendo informações, realizando ações ou respondendo a comandos.
