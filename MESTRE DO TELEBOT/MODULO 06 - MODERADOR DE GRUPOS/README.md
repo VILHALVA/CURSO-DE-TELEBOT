@@ -1,4 +1,4 @@
-# MODULO 05: MODERADOR DE GRUPOS
+# MODULO 06: MODERADOR DE GRUPOS
 
 <img src="FOTO.jpg" align="center" width="400"> <br>
 
@@ -10,7 +10,7 @@ Os bots educacionais fornecidos são projetados para ilustrar conceitos fundamen
 Certifique-se de avaliar cuidadosamente as necessidades do seu grupo e estar preparado para fazer ajustes e melhorias significativas no bot conforme necessário. Lembre-se de que a segurança e a experiência do usuário são prioridades essenciais ao utilizar bots em grupos reais.
 
 ## DESCRIÇÃO:
-- Neste `MODULO 05`, você será capacitado a desenvolver bots de moderação para grupos do Telegram. Este módulo abordará os seguintes tópicos:
+- Neste `MODULO 06`, você será capacitado a desenvolver bots de moderação para grupos do Telegram. Este módulo abordará os seguintes tópicos:
 
 1. **Comandos Básicos:**
    - Você aprenderá a implementar comandos de administração, permitindo que os bots banam, restrinjam e silenciem membros do grupo através de comandos específicos. Isso proporcionará aos administradores uma maneira eficaz de moderar o comportamento dos membros.

@@ -1,9 +1,9 @@
-# MODULO 04: BANCO DE DADOS (DATABASE)
+# MODULO 05: BANCO DE DADOS (DATABASE)
 
 <img src="FOTO.png" align="center" width="400"> <br>
 
 ## DESCRIÇÃO:
-- Neste `MODULO 04`, avançaremos para um nível mais sofisticado de desenvolvimento de bots, introduzindo o uso de Backend com bancos de dados. Aqui estão os principais tópicos que serão abordados:
+- Neste `MODULO 05`, avançaremos para um nível mais sofisticado de desenvolvimento de bots, introduzindo o uso de Backend com bancos de dados. Aqui estão os principais tópicos que serão abordados:
 
 1. **Banco de Dados:**
    - Você aprenderá a integrar e manipular bancos de dados em seus bots. Isso inclui ler, salvar, editar e apagar registros nos bancos de dados, seguindo as operações CRUD (Create, Read, Update, Delete). Você trabalhará com diferentes tipos de dados, como IDs, textos, nomes, números, senhas e até mídias armazenadas em diretórios do servidor.

@@ -1,9 +1,9 @@
-# MODULO 06: FRAMEWORKS E BIBLIOTECAS DO PYTHON
+# MODULO 07: FRAMEWORKS E BIBLIOTECAS DO PYTHON
 
 <img src="FOTO.png" align="center" width="400"> <br>
 
 ## DESCRIÇÃO:
-Este é o **Módulo 06** do curso, onde vamos fazer uma abordagem um pouco diferente em comparação aos módulos anteriores. Aqui, vamos criar um único bot de [RECADOS](https://github.com/VILHALVA/BOT-DE-RECADOS) e convertê-lo para diferentes frameworks/Bibliotecas do Python:
+Este é o **Módulo 07** do curso, onde vamos fazer uma abordagem um pouco diferente em comparação aos módulos anteriores. Aqui, vamos criar um único bot de RECADOS e convertê-lo para diferentes frameworks/Bibliotecas do Python:
 
 - [Tkinter](https://github.com/VILHALVA/CURSO-DE-TKINTER)
 - [Custom Tkinter](https://github.com/VILHALVA/CURSO-DE-CUSTOMTKINTER)

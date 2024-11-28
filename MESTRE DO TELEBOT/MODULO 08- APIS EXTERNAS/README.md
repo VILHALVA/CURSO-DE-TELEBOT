@@ -1,19 +1,15 @@
-# MODULO 07: APIS EXTERNAS
+# MODULO 08: APIS EXTERNAS
 
 <img src="FOTO.png" align="center" width="400"> <br>
 
 ## DESCRIÇÃO:
-- Neste `MODULO 07`, exploraremos a integração do seu bot com APIs Externas:
+- Neste `MODULO 08`, exploraremos a integração do seu bot com APIs Externas:
 
 1. **Introdução às APIs Externas**:
    - Explicação sobre o que são APIs externas e por que elas são úteis para bots do Telegram.
    - Visão geral dos diferentes tipos de APIs externas disponíveis, como APIs RESTful, APIs de consulta de banco de dados, APIs de serviços da web, etc.
 
-2. **Acesso a APIs RESTful**:
-   - Introdução ao conceito de APIs RESTful e como elas funcionam.
-   - Demonstração de como fazer solicitações HTTP para acessar dados de uma API RESTful.
-
-3. **Integração com Serviços Web**:
+2. **Integração com Serviços Web**:
    - Exploração de casos de uso comuns de integração com serviços da web, como previsão do tempo, conversão de moeda, busca de informações, etc.
 
 ## O QUE É API?
