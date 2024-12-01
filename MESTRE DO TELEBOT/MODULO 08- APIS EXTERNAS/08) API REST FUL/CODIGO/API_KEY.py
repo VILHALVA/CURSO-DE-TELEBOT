@@ -1,1 +1,0 @@
-API_KEY = 'url_da_sua_api_aqui'

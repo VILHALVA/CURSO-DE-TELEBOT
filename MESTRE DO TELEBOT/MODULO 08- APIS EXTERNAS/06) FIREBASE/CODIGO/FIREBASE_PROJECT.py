@@ -1,1 +1,0 @@
-FIREBASE_PROJECT = 'seu_id_do_projeto_firebase'

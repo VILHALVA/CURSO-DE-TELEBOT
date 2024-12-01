@@ -3,7 +3,7 @@
 <img src="FOTO.png" align="center" width="400"> <br>
 
 ## DESCRIÇÃO:
-- Neste `MODULO 02`, você terá a oportunidade de explorar os seguintes tópicos:
+- Neste `MODULO`, você terá a oportunidade de explorar os seguintes tópicos:
 
     - **Interação (Conversador/Entrevistador):**
         - Aqui, você descobrirá como programar seu bot para interagir como um verdadeiro conversador. Isso inclui entender e processar mensagens recebidas dos usuários, fornecer respostas relevantes e engajar os usuários em conversas dinâmicas e significativas.

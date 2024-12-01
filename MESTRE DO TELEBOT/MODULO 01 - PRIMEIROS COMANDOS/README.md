@@ -3,18 +3,17 @@
 <img src="FOTO.jpg" align="center" width="400"> <br>
 
 ## DESCRIÇÃO: 
-- Neste `MODULO 01`, você será introduzido aos recursos avançados de interação com seu bot no Telegram. Aqui está uma visão geral do que você aprenderá em cada tópico:
-
-    - **Comandos via barra de texto:**
+- Neste `MODULO`, você será introduzido aos recursos avançados de interação com seu bot no Telegram. Aqui está uma visão geral do que você aprenderá em cada tópico:
+   - **Comandos via barra de texto:**
       - Exploraremos como os usuários podem interagir com seu bot através de comandos inseridos na barra de texto do Telegram. Você aprenderá a definir e processar comandos específicos para realizar ações dentro do seu bot, como exibir informações e executar funções.
 
-    - **Utilização de botões de teclado:**
+   - **Utilização de botões de teclado:**
       - Veremos como criar e implementar botões de teclado, fornecendo aos usuários uma interface mais intuitiva e amigável para interagir com seu bot. Você aprenderá a criar diferentes tipos de teclados, como teclados de resposta única e teclados personalizados, e como processar as respostas dos usuários.
 
-    - **Implementação de botões inline:**
+   - **Implementação de botões inline:**
       - Abordaremos a utilização de botões inline, que permitem aos usuários realizar ações específicas diretamente nas conversas, como enviar consultas de pesquisa, acionar ações ou fornecer feedback. Você aprenderá a criar e processar botões inline para proporcionar uma experiência de usuário mais dinâmica e interativa.
 
-    - **Integração de bots inline:**
+   - **Integração de bots inline:**
       - Exploraremos estratégias avançadas para a integração de bots inline em conversas individuais e em grupos. Você aprenderá a desenvolver bots inline que oferecem funcionalidades úteis e relevantes em resposta às consultas dos usuários, aumentando assim a usabilidade e a utilidade do seu bot no Telegram.
 
    - **Comandos Matemáticos (Tabuada/Calculadora):**

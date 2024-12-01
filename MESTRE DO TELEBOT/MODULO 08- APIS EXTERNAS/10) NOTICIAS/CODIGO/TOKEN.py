@@ -1,1 +1,0 @@
-TOKEN = "SEU_TOKEN"
